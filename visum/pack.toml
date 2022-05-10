@@ -1,0 +1,13 @@
+name = "Visum"
+author = "Horizr"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "09ae94fe0942cb742ea8095d10d6875f38e43834dd7cc54939138a8d2be7a25a"
+
+[versions]
+fabric = "0.14.4"
+minecraft = "1.18.2"
