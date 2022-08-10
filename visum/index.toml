@@ -1,6 +1,78 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "2f0166cdc4bd1b2bd6ec683fac2709c9eecf75de52911192ac3dfbc4b75dbf7a"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "a3d3ca86854c3aa3c794dff9a647fde7638d976ff23419b0a8791c4c5f1d1e3f"
+
+[[files]]
+file = "config/charm.toml"
+hash = "3c1288b2c8ac631c955338c18099b1c96bedf876313fd773c97802bff87b6038"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+preserve = true
+
+[[files]]
+file = "config/debugify.json"
+hash = "57e9f736efe5e9d88594dbf438624e092f3cd36c662c1855abec1bf9e523328e"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "2559863827e5b0d37a788b403f29d693ef8530a91eec475aaf832591a8ef11c9"
+preserve = true
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "c7698f5b2169379dda0d9f0bc138c55e023df7f137bf70dc729176d525a9daea"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "5579b9837993447dce7cbdeab898f3025af5cead63f9c34e0defce5a686d75ec"
+
+[[files]]
+file = "config/iris.properties"
+hash = "6b62cd7b412cb966cc9234a3157a0bc970a3f501c9894d5b7bf3dda4e843265f"
+preserve = true
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+preserve = true
+
+[[files]]
+file = "config/modmenu.json"
+hash = "efe9bf883a6144d418f1b7897b561ff381c7f901aa48808d12fbffe5e6e87474"
+preserve = true
+
+[[files]]
+file = "config/promenade/biomes.json"
+hash = "77890535097a35f49635751dbfe27244140395e1f6034bbb22ee87860aeb372a"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "22fd8f88a34e6f792139136222152bbf87b3fc442cb51e3aa6cf05294220e96a"
+preserve = true
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "9c587743ac0285af17ab4839031817622424d53cf88fbc43fbaf2d8aae7116f3"
+preserve = true
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "394fd25489dc101edf130055d1cdbddb9fb62ae3a455aeec5c42bd9b14d22007"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "2337f9a02de1a13086e15cadefc75601d3cb7322721a164a02601a012c44f7f7"
+preserve = true
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "cddfd55242436c0e571f7f3620d997a800d65e8aa17e6a8e866b48e03019d0de"
 metafile = true
@@ -33,11 +105,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.toml"
-hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
 metafile = true
 
 [[files]]
@@ -181,11 +248,6 @@ hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.toml"
-hash = "18e96dad454288e6de4eb8e8fb519c1147e67f49a629cfd005f1a28488be76a6"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.toml"
 hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
@@ -259,3 +321,22 @@ metafile = true
 file = "mods/zoomify.toml"
 hash = "63c9e989d5a5ff668ca6e0959d6a4d0378c0b51169450772de30ecaeedcce1ce"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "cc464073c7ce48b6086650ac24be0e8734016b08fc802b3dfa47fe4faec184b7"
+preserve = true
+
+[[files]]
+file = "resourcepacks/BetterLeaves.toml"
+hash = "149e65e3787998bb0beb9a5e9b0e4ebc6534ff16b83ffee995d3f03f843a7e24"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders.toml"
+hash = "5066fed9dad33da4f3fdba54edcdc426f34c4e9aadc62ad938a0ef15773ffeb0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders.zip.txt"
+hash = "3b29bd84b1ae2c66767a002d1b72c9d66df67954cf0b5706fe611abc98892118"
