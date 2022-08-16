@@ -1,9 +1,0 @@
-name = "BetterLeaves"
-filename = "Better-Leaves.zip"
-side = "client"
-
-[download]
-url = "https://media.forgecdn.net/files/3759/621/Better-Leaves-6.2-1.13%2B.zip"
-hash-format = "sha1"
-hash = "0f901f13e0d07deec6cb19d8cba6ee50d4b43bfa"
-

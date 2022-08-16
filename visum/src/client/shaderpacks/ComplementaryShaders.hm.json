@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "displayName": "Complementary Shaders",
+  "enabled": true,
+  "version": {
+    "fileName": "ComplementaryShaders.zip",
+    "name": "4.5.1",
+    "size": 3454049,
+    "hashes": {
+      "sha1": "92a5b20fe8780e76b2a1f822f38e2a34af3f4bae",
+      "sha512": "57337ff7ba5bc0b3f26844746e1a74ccb6e24fcd5f258c91b27900045ef52b9b2cc086cc1f7e46d7db69717e0fdcb45266d260b0bbbc72df9e4c4b4aa26d8b2f"
+    },
+    "downloadUrl": "https://mediafiles.forgecdn.net/files/3856/409/ComplementaryShaders_v4.5.1.zip"
+  }
+}
