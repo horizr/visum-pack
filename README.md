@@ -18,10 +18,8 @@
 
 ### To do
 - `/gamerule reducedDebugInfo true` by default
+- Find a solution for default options
 - Find Inspecio replacements
-- Configure Zoomify
-- Configure Keybinds
-- Configure Debugify (telemetry fix off)
 
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
