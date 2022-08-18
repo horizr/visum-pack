@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "0.7.1+1.18.2",
+    "size": 481307,
+    "fileName": "enhancedblockentities-0.7.1+1.18.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1+1.18.2/enhancedblockentities-0.7.1%2B1.18.2.jar",
+    "hashes": {
+      "sha1": "e09988fed9394ec5858b81400ba96d2b8b8cab1a",
+      "sha512": "183f519a161e7ea1e2259553f8ec7939cf0e2e3ef1e8b191985e84d2e6ecd65eb4ced17a85f9f6ba66b89eb3949838522fa4e1b958bbaf5846b7f8fc46c1759e"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "OVuFYfre",
+    "versionId": "Id00LoSl",
+    "ignoreUpdates": false
+  }
+}

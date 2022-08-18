@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.2.164",
+    "size": 244998,
+    "fileName": "Chunky-1.2.164.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164/Chunky-1.2.164.jar",
+    "hashes": {
+      "sha1": "c936401a30394972b102d62a2553927aa79bd501",
+      "sha512": "5b39b3091df275a8dae7976f25adabd41ffb84d286ccdc8e4ffe18b1211d1b59ede088e5a17b28b9157fbd91a416b38732764f413b8951782d793059fcabb616"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "fALzjamp",
+    "versionId": "JJMpSOeW",
+    "ignoreUpdates": false
+  }
+}

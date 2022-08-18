@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "mc1.18.2-1.4.6",
+    "size": 49818,
+    "fileName": "reeses_sodium_options-1.4.6+mc1.18.2-build.54.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar",
+    "hashes": {
+      "sha1": "ea107cd96aac0944696f7dd1b6ffdf994fd0ec52",
+      "sha512": "2f7dedd6975688108f9ba9de86b80dd29d7ceba1997bc718ed6aae9f986add9a714421f028e92469f461907515b04258372cd3888470c3ef0a09ff7f8e805162"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "Bh37bMuy",
+    "versionId": "tBapWg9r",
+    "ignoreUpdates": false
+  }
+}

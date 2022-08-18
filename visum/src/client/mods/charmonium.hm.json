@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "4.1.0+1.18.2",
+    "size": 43167492,
+    "fileName": "charmonium-fabric-1.18.2-4.1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.1.0+1.18.2/charmonium-fabric-1.18.2-4.1.0.jar",
+    "hashes": {
+      "sha1": "4b8568ff73b81e4c9c3b23653e2339c86c38e7be",
+      "sha512": "65fa8c65ea8cd94be804bb26ce9cc6f5caf93fad9b66cb5178f350db63c6769f184106dcf03587d7a852ca4ae2eab1763b2064a1652e9971c1e49153e3dc40a6"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "bpii4Xsa",
+    "versionId": "rzkLIRCX",
+    "ignoreUpdates": false
+  }
+}
