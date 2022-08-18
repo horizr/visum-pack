@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "3.2.3",
+    "size": 422628,
+    "fileName": "modmenu-3.2.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.3/modmenu-3.2.3.jar",
+    "hashes": {
+      "sha1": "463fecec40447519a9a32c1c178a962799583add",
+      "sha512": "e5cb08f55ad3b678a02bfe56c47b378cbfd92a5002807786d64eedf035c07ccbd68af5a72672ae159c18a3fe46871502aa281c0e9ef9e6731e1dca02fc942761"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "mOgUt4GM",
+    "versionId": "cx9D94fU",
+    "ignoreUpdates": false
+  }
+}

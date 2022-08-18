@@ -14,7 +14,8 @@
 ## Todo
 - hide debug info by default
 - find Inspecio replacements
-- BetterSpyglass?
+- Configure Zoomify
+- Keybinds
 
 ## Compatibility
 - Charm: Replantable crops, Bookcase items, Structures on maps

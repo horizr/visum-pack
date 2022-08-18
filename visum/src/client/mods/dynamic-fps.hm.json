@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "v2.1.0",
+    "size": 88824,
+    "fileName": "dynamic-fps-2.1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar",
+    "hashes": {
+      "sha1": "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947",
+      "sha512": "3e22e5b613abfb17fa83f74348a3c2cf8fb7bdb2a6a6a8d5b561044b37e54d0a0114df1128c7e34df063776975041c5595feb2f94cbb2bfe0f1bc59193cce9e3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "LQ3K71Q1",
+    "versionId": "LttnLLIj",
+    "ignoreUpdates": false
+  }
+}

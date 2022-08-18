@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "2.3.2",
+    "size": 82789,
+    "fileName": "cullleaves-2.3.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar",
+    "hashes": {
+      "sha1": "9bc9c61f0a7dc6c765118a0527850b91847608cb",
+      "sha512": "e09a13efb20a36b7448fd3db688e2d810c00186a280be8f1e4ee2a1401267e544f981f8d8e042f15a00fef44abd9213a9eb46ffe3880b504c09ad5f5d532cf21"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "GNxdLCoP",
+    "versionId": "718Klypf",
+    "ignoreUpdates": false
+  }
+}
