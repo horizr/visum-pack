@@ -1,7 +1,9 @@
+![horizr ❯ visum](./banner.png)
+
 # horizr ❯ visum
 > A Vanilla+ pack with a focus on aesthetics.
 
-## Notes
+## Notable changes
 ### Charm
 - Amethyst shards to item frame for invisibility
 - Witches drop Luck potions
@@ -11,13 +13,18 @@
 - Bats in buckets for glowing 24 blocks 20s
 - Stackable: 16x Enchantment books, Potions
 
-## Todo
-- hide debug info by default
-- find Inspecio replacements
+## Development
+[horizr CLI](https://github.com/horizr/cli) is used for pack management.
+
+### To do
+- `/gamerule reducedDebugInfo true` by default
+- Find Inspecio replacements
 - Configure Zoomify
-- Keybinds
+- Configure Keybinds
 - Configure Debugify (telemetry fix off)
 
-## Interoperability
+### Interoperability entry-points
+When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
+
 - Charm: replantable crops, Bookcase items, structures on maps
 - WTHIT: blacklisted blocks and entities
