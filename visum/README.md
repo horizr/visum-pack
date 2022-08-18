@@ -16,6 +16,8 @@
 - find Inspecio replacements
 - Configure Zoomify
 - Keybinds
+- Configure Debugify (telemetry fix off)
 
-## Compatibility
-- Charm: Replantable crops, Bookcase items, Structures on maps
+## Interoperability
+- Charm: replantable crops, Bookcase items, structures on maps
+- WTHIT: blacklisted blocks and entities

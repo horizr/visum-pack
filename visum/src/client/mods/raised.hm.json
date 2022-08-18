@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "Fabric-1.18.2-1.1.2",
+    "size": 23516,
+    "fileName": "raised-fabric-1.18.2-1.1.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/nCQRBEiR/versions/Fabric-1.18.2-1.1.2/raised-fabric-1.18.2-1.1.2.jar",
+    "hashes": {
+      "sha1": "2c140be8f4ab4646d62bc12dbcd1980fc68c0dba",
+      "sha512": "8ad6cd9e62b9de7717528cc9d024a6a22a2c3a9e19e4b1b27729b6b3ccbcac74388a9711734f143ae1416783a194b6b790f7ff411d8633b68797cdc4b87a4ee8"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "nCQRBEiR",
+    "versionId": "4blSgtRD",
+    "ignoreUpdates": false
+  }
+}
