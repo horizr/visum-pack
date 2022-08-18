@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "8.3.529+fabric",
+    "size": 2079724,
+    "fileName": "RoughlyEnoughItems-8.3.529.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.529+fabric/RoughlyEnoughItems-8.3.529.jar",
+    "hashes": {
+      "sha1": "327c97ee62b065329c6723d960c99470aa899915",
+      "sha512": "37c4a55de67fcf7a9371ddd916b9021924fd8cb7da04bbaff0ef256d88018719927b1912135465fe652d2fcc00b6cc5b2dc8a973d4625794abd11f2030dbf3b0"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "nfn13YXA",
+    "versionId": "e1FXVxEo",
+    "ignoreUpdates": false
+  }
+}

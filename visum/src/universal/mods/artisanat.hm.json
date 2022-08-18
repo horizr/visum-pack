@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "2.2.1",
+    "size": 2192200,
+    "fileName": "artisanat-2.2.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/QDxAP5Cp/versions/2.2.1/artisanat-2.2.1.jar",
+    "hashes": {
+      "sha1": "eff963b6fb1795f2a3da263b2c893de2e21af6c8",
+      "sha512": "da909a92e2bc0fcd3ba9ca1376fe796cdc5621f5a6a774d1d8c12d5d57835337fb547e3deb46b90db7b24cc51baf51f5a581bf6a4ac66dcc8c91c1ed73e5b8d9"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "QDxAP5Cp",
+    "versionId": "pHlw7GFx",
+    "ignoreUpdates": false
+  }
+}

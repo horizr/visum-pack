@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "3.3.2",
+    "size": 1151948,
+    "fileName": "dawn-3.3.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/meZK2DCX/versions/3.3.2/dawn-3.3.2.jar",
+    "hashes": {
+      "sha1": "891a15fe6f10b5fcfcda92afd3c5a4ca93dbf1a4",
+      "sha512": "0ebcd32e719fa20af0dedcf12debbb41a291d987e766d572f309237769cc463cb76730be8d33d113f3e552c7e0a37eda133e7c526fb13b03b7c9fded7d380559"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "meZK2DCX",
+    "versionId": "QAp3E5ko",
+    "ignoreUpdates": false
+  }
+}

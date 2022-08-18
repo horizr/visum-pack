@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "2.4.0",
+    "size": 270451,
+    "fileName": "culinaire-2.4.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/MO1ODvmm/versions/2.4.0/culinaire-2.4.0.jar",
+    "hashes": {
+      "sha1": "02e79b2f3e66bdf6031b88fd60758c66fcdcaf6b",
+      "sha512": "bbc3b4621fb3ee2f28f81397365d55353ca6cc2538c081cb372be5d37d74b64b857ae963a23dca46ef13116b9a4a00f5eb440c1de2ba7cccf1e67bd25835ba06"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "MO1ODvmm",
+    "versionId": "5LLlg1IS",
+    "ignoreUpdates": false
+  }
+}
