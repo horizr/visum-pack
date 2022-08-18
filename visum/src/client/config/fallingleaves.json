@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "displayDebugData": false,
+  "leafSize": 7,
+  "leafLifespan": 200,
+  "leafSpawnRate": 8,
+  "coniferLeafSpawnRate": 0,
+  "dropFromPlayerPlacedBlocks": true,
+  "minimumFreeSpaceBelow": 1,
+  "windEnabled": true,
+  "windlessDimensions": [
+    "minecraft:the_end",
+    "minecraft:the_nether"
+  ],
+  "leafSettings": {},
+  "leafSpawners": [],
+  "fallSpawnRateFactor": 2.0,
+  "winterSpawnRateFactor": 0.1,
+  "startingSpawnRadius": 0,
+  "decaySpawnRateFactor": 2.6,
+  "maxDecayLeaves": 9
+}

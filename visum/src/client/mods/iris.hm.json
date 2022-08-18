@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.18.x-v1.2.6",
+    "size": 1567041,
+    "fileName": "iris-mc1.18.2-1.2.6.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar",
+    "hashes": {
+      "sha1": "11fdf2e0d81a5692bbbe8d6f4c7f686210bd141f",
+      "sha512": "50ce69ece18ff95cd2586b643e51ddca41da579cd405b684dfdec4b20b7287c8002bf6367ff23e3e8570efa348e05093a47450e26517ef9b81529c39de04302e"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "YL57xq9U",
+    "versionId": "F92T6Nh1",
+    "ignoreUpdates": false
+  }
+}

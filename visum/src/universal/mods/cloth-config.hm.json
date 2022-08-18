@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "6.2.62",
+    "size": 1122859,
+    "fileName": "cloth-config-fabric-6.2.62.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62/cloth-config-fabric-6.2.62.jar",
+    "hashes": {
+      "sha1": "bc0f07805823fdab5c7376d8d2b314c1b109d402",
+      "sha512": "1d30dbc59ac2a8668e5dd3bb7a6d74a8d243cf958d16f4d55670db270414842dc3884687c847cc9815605695ee2403e933f010a17c7ff5e296de43a55872ad0a"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "9s6osm5g",
+    "versionId": "d1D40LRO",
+    "ignoreUpdates": false
+  }
+}

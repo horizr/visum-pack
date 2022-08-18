@@ -422,7 +422,6 @@
 	"Rarity of rare variants" = 1000
 
 [WanderingTraderMaps]
-[WanderingTraderMaps]
 	#List of structure tags.
 	"Maps to structures" = ["minecraft:village", "minecraft:mineshaft", "charm:swamp_hut", "charm:igloo"]
 	#List of rarer structure tags.
