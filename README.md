@@ -3,15 +3,16 @@
 # horizr ❯ visum
 > A Vanilla+ pack with a focus on aesthetics.
 
+[**📄 Included mods**](./docs/mods.md)
+
 ## Notable changes
-### Charm
-- Amethyst shards to item frame for invisibility
+- Click an item frame with an amethyst shard to make it invisible
 - Witches drop Luck potions
 - Snow accumulates in cold biomes
 - A crafting table can be used from the inventory
 - Crops can't be trampled
-- Bats in buckets for glowing 24 blocks 20s
-- Stackable: 16x Enchantment books, Potions
+- Bats can be caught in buckets and let nearby entities glow for 20s when they are released
+- Enchantment books and potions are stackable (16)
 
 ## Development
 [horizr CLI](https://github.com/horizr/cli) is used for pack management.
@@ -19,7 +20,6 @@
 ### To do
 - `/gamerule reducedDebugInfo true` by default
 - Find a solution for default options
-- Find Inspecio replacements
 
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
