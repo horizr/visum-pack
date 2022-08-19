@@ -5,6 +5,8 @@
 
 [**📄 Included mods**](./docs/mods.md)
 
+Additionally, the [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidnightDust/BetterLeavesPack) is preinstalled.
+
 ## Notable changes
 - Click an item frame with an amethyst shard to make it invisible
 - Witches drop Luck potions
@@ -17,9 +19,7 @@
 ## Development
 [horizr CLI](https://github.com/horizr/cli) is used for pack management.
 
-### To do
-- `/gamerule reducedDebugInfo true` by default
-- Find a solution for default options
+The `Better Leaves` resource-pack must be updated manually.
 
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
