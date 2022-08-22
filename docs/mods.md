@@ -49,6 +49,9 @@
 - `Auth Me` — in-game session re-validation
 - `Not Enough Crashes` — go to title screen on crash
 
+### Modpack utilities
+- `OneTimeOverrides`
+
 ### Library
 - `Architectury API`
 - `bad packets`

@@ -7,6 +7,11 @@
 
 Additionally, the [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidnightDust/BetterLeavesPack) is preinstalled.
 
+## Installation
+We recommend using the [PolyMC launcher](https://polymc.org/) for playing the pack.
+
+While creating a new instance, you can select the pack after searching for it in the _Modrinth_ tab.
+
 ## Notable changes
 - Click an item frame with an amethyst shard to make it invisible
 - Witches drop Luck potions
