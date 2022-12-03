@@ -46,6 +46,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ### Miscellaneous
 - `Auth Me` — in-game session re-validation
+- `Axes are Weapons` — allows sword enchantments for axes
 - `Charm` — miscellaneous vanilla enhancements
 - `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
@@ -58,6 +59,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### Modpack utilities
 - `OneTimeOverrides`
 - `Paxi`
+- `Main Menu Credits`
 
 ### Library
 - `Architectury API`
@@ -74,6 +76,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 These mods would be in the pack if they were stable.
 - `Concurrent Chunk Management Engine` — multithreaded chunk management
 - `Consistency+`
+- `Immersive Portals`
 - `Resounding` — realistic sound physics
 - `Terra` — completely revamped world-gen
 
@@ -99,6 +102,4 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 - `Mo' Structures` — many new structures
 
 ## In consideration
-- `Immersive Portals`
-- `Paradise Lost` — Aether dimension
-- `Axes are Weapons` — weapon enchantments for axes
+*None*
