@@ -53,6 +53,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
+- `Advancements Debug` — fixes an advancements-related bug
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
 - `Campanion` — various camping-themed items
