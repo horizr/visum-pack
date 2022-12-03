@@ -24,7 +24,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### World-gen & decoration
 - `Adorn` — furniture
 - `Artisanat` — more block variations
-- `Mo' Structures` — many new structures
 - `Promenade` — biomes, mobs and ducks
 
 ### GUI
@@ -42,7 +41,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
-- `Animal Feeding Trough`
 - `Charm` — miscellaneous vanilla enhancements
 - `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
@@ -91,6 +89,10 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 - `Origins` — character classes
 - `Paradise Lost` — Aether dimension
 - `Axes are Weapons` — weapon enchantments for axes
+
+### Incompatible loader/version
+- `Animal Feeding Trough`
+- `Mo' Structures` — many new structures
 
 ## In consideration
 - `Sandwichable` — sandwiches
