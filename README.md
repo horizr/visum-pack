@@ -28,7 +28,7 @@ While creating a new instance, you can select the pack after searching for it in
 
 ### Not from Modrinth
 These must be manually updated:
-- [`Better Leaves` (resource-pack)](https://github.com/TeamMidnightDust/BetterLeavesPack) v6.2
+- [`Better Leaves` (resource-pack)](https://github.com/TeamMidnightDust/BetterLeavesPack) v7.1
 
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
