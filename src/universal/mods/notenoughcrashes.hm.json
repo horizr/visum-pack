@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "4.1.6+1.18.2-fabric",
-    "size": 164378,
-    "fileName": "notenoughcrashes-4.1.6+1.18.2-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.18.2-fabric/notenoughcrashes-4.1.6%2B1.18.2-fabric.jar",
+    "name": "4.2.0+1.19.2-fabric",
+    "size": 170175,
+    "fileName": "notenoughcrashes-4.2.0+1.19.2-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/yM94ont6/versions/pZrUjdgo/notenoughcrashes-4.2.0%2B1.19.2-fabric.jar",
     "hashes": {
-      "sha1": "ef051ab6a831f7ffd03162e54b2e997b604efaca",
-      "sha512": "b99a591556c321651797b22ba415ed22dc891c8b5248c1aae7c070db5f5c72aaf75ab50236f7c2642cb5b8eb1489fbbd25b9d51c8a99535d1d1a8696b164e113"
+      "sha1": "43c2e609a6ba3fcbb66426c87abc86efa9085727",
+      "sha512": "8a5dafc349bbed411e735404838f964c75a8b36aa149cb926059c4340660692d1b50afe5025bd0ea0851c64d92c96822a37f4c0671763414e4f2669eb46e756c"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "yM94ont6",
-    "versionId": "3jOKpa3T",
+    "versionId": "pZrUjdgo",
     "ignoreUpdates": false
   }
 }

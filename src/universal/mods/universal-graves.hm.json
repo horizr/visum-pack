@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.0.3+1.18.2",
-    "size": 967177,
-    "fileName": "graves-2.0.3+1.18.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/yn9u3ypm/versions/2.0.3+1.18.2/graves-2.0.3%2B1.18.2.jar",
+    "name": "2.1.3+1.19.2",
+    "size": 1096151,
+    "fileName": "graves-2.1.3+1.19.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/yn9u3ypm/versions/9Xjqin2k/graves-2.1.3%2B1.19.2.jar",
     "hashes": {
-      "sha1": "9dc56f843fdb2510bf9adb388feb3df22b0c3600",
-      "sha512": "d74fc559d28c98ae62dc5e77e9da7443ba8867a92dc1841270f7b23fcb967701d00b9d22655a4a8b6296719f792f3154a1f49489f21f2646188b2329fae4ebff"
+      "sha1": "9584bf7ab80729b78ffea80a05a5b0a7ad5b416b",
+      "sha512": "cb7f29c5bc9237acc1412bc5848274ca5ea92781a88555c54252f31d108680f8d743bcbc4a97a1bfec3d11f6eba55808a5009bfd6e48d6dba7624511490aad40"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "yn9u3ypm",
-    "versionId": "mSmmm4Bh",
+    "versionId": "9Xjqin2k",
     "ignoreUpdates": false
   }
 }

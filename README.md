@@ -33,5 +33,15 @@ These must be manually updated:
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).
 
-- Charm: replantable crops, Bookcase items, structures on maps
+- Charm: replantable crops, bookcase items, structures on maps
 - WTHIT: blacklisted blocks and entities
+- Falling Leaves: leaves blocks
+
+### Reconfiguration needed
+- Falling Leaves (config)
+- Raised (keybinds)
+- Zoomify (keybinds, config, spyglass-only?)
+- Debugify (config)
+- Lithium (config)
+- Not enough crashes (config)
+- WTHIT (config)
