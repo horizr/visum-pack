@@ -90,13 +90,13 @@ These mods would be in the pack if they were stable.
 - `Terra` — completely revamped world-gen
 
 ### Alternative used
-Bug-fixing mods are generally excluded because of `Debugify`.
-- `Better Recipe Book` --> `Roughly Enough Items`
-- `DripSounds` --> `Charmonium`
-- `EditSign` --> `Charm`
-- `FPS - Display` --> `Sodium`
-- `Health Care` --> `WTHIT`
-- `LambDynamicLights` --> `Iris Shaders`
+- bug-fixing mods → `Debugify`.
+- `Better Recipe Book` → `Roughly Enough Items`
+- `DripSounds` → `Charmonium`
+- `EditSign` → `Charm`
+- `FPS - Display` → `Sodium`
+- `Health Care` → `WTHIT`
+- `LambDynamicLights` → `Iris Shaders`
 
 ### Not vanilla enough
 - `Additional Additions` — various items
@@ -108,6 +108,7 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 
 ### Incompatible loader/version
 - `Animal Feeding Trough`
+- `Decorative` — decoration blocks
 - `Mo' Structures` — many new structures
 
 ## In consideration
