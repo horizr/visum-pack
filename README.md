@@ -30,6 +30,7 @@ While creating a new instance, you can select the pack after searching for it in
 ### Not from Modrinth
 These must be manually updated:
 - [`Better Leaves` (resource-pack)](https://github.com/TeamMidnightDust/BetterLeavesPack) v7.1
+- [`Towers of the Wild: Reworked` (data-pack)](https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack) v4.0.2+fabric-waystones
 - [`TerraBlender`](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) v2.0.1.130
 
 ### Interoperability entry-points

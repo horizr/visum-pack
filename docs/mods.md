@@ -24,7 +24,11 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### World-gen & decoration
 - `Adorn` — furniture
 - `Artisanat` — more block variations
+- `Cinderscapes` — more Nether biomes
 - `Promenade` — biomes, mobs and ducks
+- `Terrestria` — more Overworld biomes
+- `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
+- `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
@@ -41,17 +45,19 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
+- `Auth Me` — in-game session re-validation
 - `Charm` — miscellaneous vanilla enhancements
 - `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
+- `Fabric Waystones` — waystones
 - `No Telemetry` — disables telemetry
 - `Universal Graves` — graves
 - `Zoomify` — zoom
-- `Auth Me` — in-game session re-validation
 
 ### Modpack utilities
 - `OneTimeOverrides`
+- `Paxi`
 
 ### Library
 - `Architectury API`
@@ -60,6 +66,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
+- `oωo`
 - `TerraBlender` — semi-hard dependency of `Promenade`
 
 ## Not included
@@ -68,6 +75,7 @@ These mods would be in the pack if they were stable.
 - `Concurrent Chunk Management Engine` — multithreaded chunk management
 - `Consistency+`
 - `Resounding` — realistic sound physics
+- `Terra` — completely revamped world-gen
 
 ### Alternative used
 Bug-fixing mods are generally excluded because of `Debugify`.
@@ -83,15 +91,14 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 - `ChestTracker` — find items in chests
 - `EasierCrafting` — crafting through clicking
 - `Falling Tree` — cut down a tree by only breaking one block
-- `Immersive Portals`
 - `limitless` — removes enchanting limits
 - `Origins` — character classes
-- `Paradise Lost` — Aether dimension
-- `Axes are Weapons` — weapon enchantments for axes
 
 ### Incompatible loader/version
 - `Animal Feeding Trough`
 - `Mo' Structures` — many new structures
 
 ## In consideration
-*None*
+- `Immersive Portals`
+- `Paradise Lost` — Aether dimension
+- `Axes are Weapons` — weapon enchantments for axes
