@@ -25,10 +25,17 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Adorn` — furniture
 - `Artisanat` — more block variations
 - `Cinderscapes` — more Nether biomes
+- `Infinity Buttons` — more buttons
+- `Lanterns Belong on Walls` — allows placing lanterns on walls
 - `Promenade` — biomes, mobs and ducks
 - `Terrestria` — more Overworld biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
 - `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
+- `Wilder Wild` — many enhancements
+- `YUNG's Better Desert Temples`
+- `YUNG's Better Dungeons`
+- `YUNG's Better Mineshafts`
+- `YUNG's Better Ocean Monuments`
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
@@ -47,6 +54,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### Miscellaneous
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
+- `Campanion` — various camping-themed items
 - `Charm` — miscellaneous vanilla enhancements
 - `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
@@ -70,6 +78,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Fabric Language Kotlin`
 - `oωo`
 - `TerraBlender` — semi-hard dependency of `Promenade`
+- `YUNG's API`
 
 ## Not included
 ### Experimental
