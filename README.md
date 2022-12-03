@@ -30,6 +30,7 @@ While creating a new instance, you can select the pack after searching for it in
 ### Not from Modrinth
 These must be manually updated:
 - [`Better Leaves` (resource-pack)](https://github.com/TeamMidnightDust/BetterLeavesPack) v7.1
+- [`TerraBlender`](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) v2.0.1.130
 
 ### Interoperability entry-points
 When new items/blocks/entities/structures are added, the configuration files of the following mods should be adjusted (if necessary).

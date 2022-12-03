@@ -60,6 +60,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
+- `TerraBlender` — semi-hard dependency of `Promenade`
 
 ## Not included
 ### Experimental
@@ -93,4 +94,4 @@ Bug-fixing mods are generally excluded because of `Debugify`.
 - `Mo' Structures` — many new structures
 
 ## In consideration
-- `Sandwichable` — sandwiches
+*None*
