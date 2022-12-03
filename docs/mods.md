@@ -34,6 +34,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Reese's Sodium Options` — replaces the graphics settings
 - `Roughly Enough Items`
 - `WTHIT` — looking-at HUD
+- `Here be no Dragons!` — Disables the *experimental world settings* warning
 
 ### Compatibility
 - `Indium` — `Lithium` + `Fabric Rendering API`
