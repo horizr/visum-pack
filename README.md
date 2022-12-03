@@ -39,8 +39,4 @@ When new items/blocks/entities/structures are added, the configuration files of 
 - Falling Leaves: leaves blocks
 
 ### Reconfiguration needed
-- Falling Leaves (config)
-- Raised (keybinds)
-- Debugify (config)
-- Lithium (config)
-- WTHIT (config)
+*None*
