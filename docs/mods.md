@@ -31,6 +31,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Terrestria` — more Overworld biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
 - `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
+- `When Dungeons Arise` — dungeon structures
 - `Wilder Wild` — many enhancements
 - `YUNG's Better Desert Temples`
 - `YUNG's Better Dungeons`
