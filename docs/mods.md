@@ -60,7 +60,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
-- `Feature NBT Deadlock Be Gone`
 
 ## Not included
 ### Experimental

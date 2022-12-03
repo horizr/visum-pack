@@ -22,6 +22,7 @@ While creating a new instance, you can select the pack after searching for it in
 - Crops can't be trampled
 - Bats can be caught in buckets and let nearby entities glow for 20s when they are released
 - Enchantment books and potions are stackable (16)
+- Spyglass zooming can be adjusted by scrolling and there is a keybind for using it
 
 ## Development
 [horizr CLI](https://github.com/horizr/cli) is used for pack management.
@@ -40,8 +41,6 @@ When new items/blocks/entities/structures are added, the configuration files of 
 ### Reconfiguration needed
 - Falling Leaves (config)
 - Raised (keybinds)
-- Zoomify (keybinds, config, spyglass-only?)
 - Debugify (config)
 - Lithium (config)
-- Not enough crashes (config)
 - WTHIT (config)
