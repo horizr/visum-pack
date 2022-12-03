@@ -40,12 +40,12 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
+- `Here be no Dragons!` — Disables the *experimental world settings* warning
 - `Mod Menu` — adds a mod menu
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
 - `Roughly Enough Items`
 - `WTHIT` — looking-at HUD
-- `Here be no Dragons!` — Disables the *experimental world settings* warning
 
 ### Compatibility
 - `Indium` — `Lithium` + `Fabric Rendering API`
