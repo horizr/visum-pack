@@ -52,7 +52,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Debugify` — fixes various bugs
 - `Fabric Waystones` — waystones
 - `No Telemetry` — disables telemetry
-- `Universal Graves` — graves
+- `You're in Grave Danger` — graves
 - `Zoomify` — zoom
 
 ### Modpack utilities
