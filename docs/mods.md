@@ -25,6 +25,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Adorn` — furniture
 - `Artisanat` — more block variations
 - `Cinderscapes` — more Nether biomes
+- `Decorative` — decoration
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
 - `Promenade` — biomes, mobs and ducks
@@ -41,7 +42,9 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
 - `Here be no Dragons!` — Disables the *experimental world settings* warning
+- `JourneyMap` — HUD map
 - `Mod Menu` — adds a mod menu
+- `Paginated Advancements` — improved advancements screen
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
 - `Roughly Enough Items`
@@ -62,6 +65,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
 - `Fabric Waystones` — waystones
+- `Light Overlay`
 - `No Telemetry` — disables telemetry
 - `You're in Grave Danger` — graves
 - `Zoomify` — zoom

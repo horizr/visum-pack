@@ -1,0 +1,20 @@
+{
+  "formatVersion": 1,
+  "enabled": true,
+  "version": {
+    "name": "1.1.0-1.19",
+    "size": 42389,
+    "fileName": "paginatedadvancements-1.1.0-1.19.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pJogNFap/versions/1.1.0-1.19/paginatedadvancements-1.1.0-1.19.jar",
+    "hashes": {
+      "sha1": "d698cb0149d192d3837d7e44c54f9c39db545bef",
+      "sha512": "f427f32f6f98db8fe9ebfa40ce9c2d768978c72c521bb0d2f6106194728234b163bc6f04bf57a0971f0c6eed6a74a0c79147bf7229943b9e4350b0b873844770"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "pJogNFap",
+    "versionId": "KyZlYcfx",
+    "ignoreUpdates": false
+  }
+}
