@@ -41,7 +41,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
-- `Here be no Dragons!` — Disables the *experimental world settings* warning
+- `Here be no Dragons!` — disables the *experimental world settings* warning
 - `JourneyMap` — HUD map
 - `Mod Menu` — adds a mod menu
 - `Paginated Advancements` — improved advancements screen
