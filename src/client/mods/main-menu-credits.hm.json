@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.1.1",
-    "size": 14190,
-    "fileName": "main-menu-credits-1.1.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/qJDfP7WN/versions/1.1.1/main-menu-credits-1.1.1.jar",
+    "name": "1.1.2",
+    "size": 14340,
+    "fileName": "main-menu-credits-1.1.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/qJDfP7WN/versions/hWX5REu6/main-menu-credits-1.1.2.jar",
     "hashes": {
-      "sha1": "7df757c8d19a13da60c7b85f13870965d61c71d8",
-      "sha512": "20c4455b742e2bff30e043c810483e90b95aa01de6f5223ca12a895b296cc209974c36fb95ae2a0b9f0a9c912ed345f535643d2f19f51c23b3861764f5bd02a4"
+      "sha1": "771eb704928c6d3e9fdf0e7971ba7d97305e09dd",
+      "sha512": "ffd34a0fb7d0eda309af8deb0a06cae8c367e954e4452fef50a25bf2e3639aa998b4d1dcf0f74be61e51d7ccca175a80631927878a07103ca9da40492fd43467"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "qJDfP7WN",
-    "versionId": "riozoxJO",
+    "versionId": "hWX5REu6",
     "ignoreUpdates": false
   }
 }

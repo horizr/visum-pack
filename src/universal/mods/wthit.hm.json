@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "fabric-5.13.4",
-    "size": 389320,
-    "fileName": "wthit-fabric-5.13.4.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/6AQIaxuO/versions/VbTnrP6u/wthit-fabric-5.13.4.jar",
+    "name": "fabric-8.4.0",
+    "size": 587503,
+    "fileName": "wthit-fabric-8.4.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/6AQIaxuO/versions/z1T650Hb/wthit-fabric-8.4.0.jar",
     "hashes": {
-      "sha1": "7c5914680e67769b9cc3d1b303de14a6acdc4a6e",
-      "sha512": "9a418bf819162de3defc8330be1a8cea5658c0e0a5ce3db28d7fdaf22792c191a07693c8b23811907c945df6fdaa01049647156249ad031e26af95f1f5a6f8ea"
+      "sha1": "bcdd6d5079f7f8927f8a76532e2264f864a3a662",
+      "sha512": "dd5d48584222623012d59922112c4785d2bf218ef5f8ab5e3a211d15a1a8f017fbff5e529880ca173b9976e8d52a645fd3184961efca0d5ea14b783790b50eae"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "6AQIaxuO",
-    "versionId": "VbTnrP6u",
+    "versionId": "z1T650Hb",
     "ignoreUpdates": false
   }
 }

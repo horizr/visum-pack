@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.0.3",
-    "size": 14496537,
-    "fileName": "cinderscapes-3.0.3.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/YXu2oSCB/cinderscapes-3.0.3.jar",
+    "name": "4.0.8",
+    "size": 14965176,
+    "fileName": "cinderscapes-4.0.8.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/HCDPkEm0/cinderscapes-4.0.8.jar",
     "hashes": {
-      "sha1": "e9a1b2d2f3a630aa43c47f0605adf2d551c67573",
-      "sha512": "d610d3d9607d77480e7fc8c5b7bb336f0d3a2c17edd6c755f1f0ae19e756d2fd838f517b627c066ea9811c813114e9a3a8c5a89d25e111dc7d03421f7118a968"
+      "sha1": "6e0b7324678dbab274172b26f768a4fc17fc48e3",
+      "sha512": "7479d9fa1a18d2a99e1c7b4f1425223a15e979e5112a9a575e613b2eb18e93d67e1c831649217adf180edb2aa758f83cb26547424263a3a373042b56470499cd"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "QC4wcUXZ",
-    "versionId": "YXu2oSCB",
+    "versionId": "HCDPkEm0",
     "ignoreUpdates": false
   }
 }

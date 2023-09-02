@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "mc1.19.2-0.10.2",
-    "size": 543167,
-    "fileName": "lithium-fabric-mc1.19.2-0.10.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/IQxlSIiw/lithium-fabric-mc1.19.2-0.10.2.jar",
+    "name": "mc1.20.1-0.11.2",
+    "size": 645865,
+    "fileName": "lithium-fabric-mc1.20.1-0.11.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar",
     "hashes": {
-      "sha1": "bfca8397fa9034410b3846e3938ead600da5a420",
-      "sha512": "2856942c4119142c64eb03108dd6931cb6cfcd09b8d29e889ccb7d79fee3e495b68c7ad16c5ecbc156de8cd430147dc602694fb383529b8f56bd96e1d55a0da6"
+      "sha1": "8f4642147e60827f728badac7a819d1a9f3b25d5",
+      "sha512": "d1b5c90ba8b4879814df7fbf6e67412febbb2870e8131858c211130e9b5546e86b213b768b912fc7a2efa37831ad91caf28d6d71ba972274618ffd59937e5d0d"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "gvQqBUqZ",
-    "versionId": "IQxlSIiw",
+    "versionId": "ZSNsJrPI",
     "ignoreUpdates": false
   }
 }

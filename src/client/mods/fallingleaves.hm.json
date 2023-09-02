@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.13.0",
-    "size": 149303,
-    "fileName": "fallingleaves-1.13.0+1.19.2.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/WhbRG4iK/versions/aufE28Na/fallingleaves-1.13.0%2B1.19.2.jar",
+    "name": "1.15.2+1.20.1",
+    "size": 157248,
+    "fileName": "fallingleaves-1.15.2+1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/WhbRG4iK/versions/8qK6ANpJ/fallingleaves-1.15.2%2B1.20.1.jar",
     "hashes": {
-      "sha1": "7472f0cbd986fb5620640469316d9fae924119f9",
-      "sha512": "405738d23e132ac4e7d3e0325e16cc8ac3e7a0aa589588e4f28a38b95f14fb73550a6c017f385664d7700ae209ddb2ba9bce9a2546490250abb24276885cbe56"
+      "sha1": "4b3873f07b20f3a617628027c4de82e33527ffce",
+      "sha512": "5dfac4ef3411643da2c50862e0c3832d4ede27b9a84663368c34871a093155762e5d469c745316781b371aa52b4b9dfa4abb43185866dc26e728c1149114f49b"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "WhbRG4iK",
-    "versionId": "aufE28Na",
+    "versionId": "8qK6ANpJ",
     "ignoreUpdates": false
   }
 }

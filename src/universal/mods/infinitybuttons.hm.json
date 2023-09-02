@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.2.1",
-    "size": 821000,
-    "fileName": "infinitybuttons-2.2.1-mc1.19.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/2raGoXFz/versions/ivVA1dqR/infinitybuttons-2.2.1-mc1.19.jar",
+    "name": "4.0.1-fabric-1.20.1",
+    "size": 1349795,
+    "fileName": "infinitybuttons-4.0.1-mc1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/2raGoXFz/versions/Mz0C7zaI/infinitybuttons-4.0.1-mc1.20.1.jar",
     "hashes": {
-      "sha1": "9b77b7f3dc1e818f332308751f0eb04f0eaf2f39",
-      "sha512": "eb0074e0e923509bcf8cd391e6a105dfe42d255b1436b9926c9b1e52fa335581b22988525b0845e62184d0c686768857b7bc6fab19952a3bcf7f0f18d8cc87ad"
+      "sha1": "2c3c09ffcf1fccc55b22c696681552abde7e57a8",
+      "sha512": "ee294f8e0d16ce596cb9b1defc5b0ce9116b3d81bea6fbdb8930f7ac6e9e7f8f0cca95c85c9359e26627acb0c17e6feae1c0df95bd8566e5cc7aabeea7286ef4"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "2raGoXFz",
-    "versionId": "ivVA1dqR",
+    "versionId": "Mz0C7zaI",
     "ignoreUpdates": false
   }
 }

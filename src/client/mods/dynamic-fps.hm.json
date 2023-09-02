@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.2.0",
-    "size": 89446,
-    "fileName": "dynamic-fps-2.2.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar",
+    "name": "3.0.0",
+    "size": 57376,
+    "fileName": "dynamic-fps-3.0.0+minecraft-1.20.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/8feSMAfR/dynamic-fps-3.0.0%2Bminecraft-1.20.jar",
     "hashes": {
-      "sha1": "8d264374dc08df87777fb51b94c781476c315bb5",
-      "sha512": "a1758446706b095b1352851a68e45f0807fccd00cbc736db9c7275e6468ea07507b6f89e3ef16f0fa46c87797c5e246a364266d0266f36d7821c2979b5542347"
+      "sha1": "8ceb4b1871281444b8e915de09e31186d0e47d4e",
+      "sha512": "241add9276eda5401cd61fc72ec5833309077c7c80d41dd419a002952ef0eed12cf7c36b234e112ffb1b65bb06d9922796321561ec413185f53f58644d9ce912"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "LQ3K71Q1",
-    "versionId": "g9FOSLTq",
+    "versionId": "8feSMAfR",
     "ignoreUpdates": false
   }
 }

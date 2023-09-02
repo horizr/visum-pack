@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Gravestones",
+  "enabled": true,
+  "version": {
+    "name": "v1.15",
+    "size": 1169044,
+    "fileName": "gravestones-v1.15.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/ssUbhMkL/versions/Uw9uAQaY/gravestones-v1.15.jar",
+    "hashes": {
+      "sha1": "94c2fd5291c0ccf9f9bce7c0f6093df69b2cc18f",
+      "sha512": "d15c6db9d9154464f335f01ae7f8ce8d2473251ed5a6c094a2f6e59ba778de6dfdefd7ee6a08d5908b826e37028de8edc3745a7af19ee00b59971f33bdfee2c5"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "ssUbhMkL",
+    "versionId": "Uw9uAQaY",
+    "ignoreUpdates": false
+  }
+}

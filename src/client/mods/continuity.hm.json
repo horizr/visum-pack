@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.0.1+1.19",
-    "size": 1128730,
-    "fileName": "continuity-2.0.1+1.19.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1%2B1.19/continuity-2.0.1%2B1.19.jar",
+    "name": "3.0.0-beta.3+1.20.1",
+    "size": 1048859,
+    "fileName": "continuity-3.0.0-beta.3+1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/1IjD5062/versions/xy2co4Rh/continuity-3.0.0-beta.3%2B1.20.1.jar",
     "hashes": {
-      "sha1": "d82700772659f65560202f1cbd0e744007b21a75",
-      "sha512": "02d39d75d73f049184848fb4fda6d4f5fed644379f5cad9747f25be815ebf6667a780f8facbec37b59783a9adff236f8375b632d0846f13ada1f803c19c44758"
+      "sha1": "28fa0bc995fe240d17fcb1b2c8de8b0afd98213e",
+      "sha512": "52728e6919e61a9e4f00427a4f0646433d85fa0853d7946fe8651fd82e4f4c1140aa7b7e45e1e2a456a61a68fc74501ecd8317058ef7b00954fa13bd9b316c69"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "1IjD5062",
-    "versionId": "xTtULC68",
+    "versionId": "xy2co4Rh",
     "ignoreUpdates": false
   }
 }

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Statement",
+  "enabled": true,
+  "version": {
+    "name": "4.2.8+1.14.4-1.20.1",
+    "size": 179430,
+    "fileName": "Statement-4.2.8+1.14.4-1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/a9AsUNGn/versions/kOI9xaDw/Statement-4.2.8%2B1.14.4-1.20.1.jar",
+    "hashes": {
+      "sha1": "e38833d30b3b2af2b26e7e82eb85ab181a96975f",
+      "sha512": "021baec8cf916dbe229781073129b7650ed69836559025ef40725e431946d61ce0da5a2591aae9be840ae49612d683fc4415a95dfff2b83f3369234986b40dda"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "a9AsUNGn",
+    "versionId": "kOI9xaDw",
+    "ignoreUpdates": false
+  }
+}

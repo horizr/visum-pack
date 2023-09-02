@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.0.1-fabric",
-    "size": 81692,
-    "fileName": "cullleaves-fabric-3.0.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/EqasvEFc/cullleaves-fabric-3.0.1.jar",
+    "name": "3.2.0-fabric",
+    "size": 75072,
+    "fileName": "cullleaves-fabric-3.2.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/3rzOQJrq/cullleaves-fabric-3.2.0.jar",
     "hashes": {
-      "sha1": "6dc040a4fd2de8acb3ad37121710fc1e6d0843e9",
-      "sha512": "139fd4bf9e2dee8d61e32668a336771ffa75cacb0388554ab3f820788faeb805909f93dfd16f002128eedec57ae5bb6133d8e84082186fee71cd380023f42a7b"
+      "sha1": "cbf109f1fb46ca0d8773f91dd35888ded4b2ff99",
+      "sha512": "a58ae6f484dec0e88e09e449a76ba0489b2535d2b330e714ba803e6c08dba2601edc851635058b129fdd78149dc8d8221bd767141bfd55546310065a0c61f4f5"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "GNxdLCoP",
-    "versionId": "EqasvEFc",
+    "versionId": "3rzOQJrq",
     "ignoreUpdates": false
   }
 }

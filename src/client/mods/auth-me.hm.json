@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "4.2.0",
-    "size": 1245095,
-    "fileName": "authme-mc1.19.2-4.2.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/X5k3gLRb/authme-mc1.19.2-4.2.0.jar",
+    "name": "7.0.2+1.20",
+    "size": 1250699,
+    "fileName": "authme-7.0.2+1.20.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/RiTU8rGC/authme-7.0.2%2B1.20.jar",
     "hashes": {
-      "sha1": "16a99205b99e78d8c716c25b257fa5c42696f366",
-      "sha512": "3436c9264d09bb1dedda81756bbb7ae71b68bb2e47e1f64b0aedb9093ca114df1263b6bb144607d3c1a96fedefd9885cf4ef8860ba11ed4b5142b3fd1ea9e256"
+      "sha1": "5e430805cf3dfd79fc5f0995f97604edac1491cd",
+      "sha512": "ddc38925b31596b6dc80acdfeb65a5d0353f2bc1bb5f5fbe368fd39a9d91b77ac3a85d7f16cb54692048160ff53fa64b9d6b47ee0e0bbca1a0789751f4838061"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "yjgIrBjZ",
-    "versionId": "X5k3gLRb",
+    "versionId": "RiTU8rGC",
     "ignoreUpdates": false
   }
 }

@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.19.2-5.9.0beta3-fabric",
-    "size": 7279780,
-    "fileName": "journeymap-1.19.2-5.9.0beta3-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/9m6WzQnE/journeymap-1.19.2-5.9.0beta3-fabric.jar",
+    "name": "1.20.1-5.9.9-fabric",
+    "size": 7232947,
+    "fileName": "journeymap-1.20.1-5.9.9-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/fHCYp1rV/journeymap-1.20.1-5.9.9-fabric.jar",
     "hashes": {
-      "sha1": "61c9755088ac1c80fcc01328bded260563d134b2",
-      "sha512": "76619e106e883b38148326945b9fdb1b1a0d3090b0284f1e5f7be9a39ddb1b00f3305cebb874ebcf15035d9f280023c47b269e2bc6b59c20414fc0d5b08ecaa1"
+      "sha1": "d4ca7daacdf90bb59dc930b249c306fbed82055e",
+      "sha512": "88de4bdffbfcfaf3c94daee93fba6b307b455bdf66d1e7b78dfc6476de4fdee5948d2c1ca857135a641c2804064bf1cb4ff74f89cb2c26d1dd2a478ae442cc05"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "lfHFW1mp",
-    "versionId": "9m6WzQnE",
+    "versionId": "fHCYp1rV",
     "ignoreUpdates": false
   }
 }

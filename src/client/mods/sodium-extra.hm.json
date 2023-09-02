@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "mc1.19.2-0.4.14",
-    "size": 260818,
-    "fileName": "sodium-extra-0.4.14+mc1.19.2-build.80.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/1ha6EuaV/sodium-extra-0.4.14%2Bmc1.19.2-build.80.jar",
+    "name": "mc1.20.1-0.5.1",
+    "size": 365533,
+    "fileName": "sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/80a0J5Cn/sodium-extra-0.5.1%2Bmc1.20.1-build.112.jar",
     "hashes": {
-      "sha1": "11d547e8dc6233defd00e3bdd4dba4922909dd69",
-      "sha512": "f2df17f1e35313b8f646d12407cb9b8982c9fa995a8c9346fb953592f7b389714542b3ce58f7c4fdbbc08ec47b5cf6e7c651ec5133b664475458397d7139dc80"
+      "sha1": "74b6dce1ede645ffdecf1185fa05701cef68840d",
+      "sha512": "f22f22df15c494a428a8113739267ded3a7e2732158a8e948c115e278d9ffcfb9a94faa7ba3a37364318c895d9d43271ecc58a483b8e49e030394c60a5325c25"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "PtjYWJkn",
-    "versionId": "1ha6EuaV",
+    "versionId": "80a0J5Cn",
     "ignoreUpdates": false
   }
 }

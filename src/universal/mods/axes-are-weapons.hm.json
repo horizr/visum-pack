@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.6.0-fabric-1.17.1",
-    "size": 21106,
-    "fileName": "AxesAreWeapons-1.6.0-fabric-1.17.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/1jvt7RTc/versions/1.6.0-fabric-1.17.1/AxesAreWeapons-1.6.0-fabric-1.17.1.jar",
+    "name": "1.7.1-fabric-1.19.3",
+    "size": 123736,
+    "fileName": "AxesAreWeapons-1.7.1-fabric-1.19.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/1jvt7RTc/versions/Pxrg8h3r/AxesAreWeapons-1.7.1-fabric-1.19.3.jar",
     "hashes": {
-      "sha1": "659548260c211fd4de050a57e70ebd0dfcf9aa57",
-      "sha512": "ec13ca613ea8d3f3bb8c082e2fd4e06e55ee0f1bca3d217ee8b997a36901f6fd262336df8be3e8f3ae08c292a0af874a20c052ad2e910d5ca2bb5011602142af"
+      "sha1": "04bcf6dceb10b4ebe2db9dc236694c875b926f9c",
+      "sha512": "0f1d4170f2f4774f444de0c95da00e5384ef9870af1fa50e033abd2df694cda4a8724c7ebe9310d3b865c186df60754a8d466a683478621762514e44087996d3"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "1jvt7RTc",
-    "versionId": "ydQr0dbh",
+    "versionId": "Pxrg8h3r",
     "ignoreUpdates": false
   }
 }

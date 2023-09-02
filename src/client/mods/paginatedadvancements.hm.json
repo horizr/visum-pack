@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.1.0-1.19",
-    "size": 42389,
-    "fileName": "paginatedadvancements-1.1.0-1.19.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/pJogNFap/versions/1.1.0-1.19/paginatedadvancements-1.1.0-1.19.jar",
+    "name": "2.3.0",
+    "size": 69502,
+    "fileName": "paginatedadvancements-2.3.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pJogNFap/versions/pVtBmxB6/paginatedadvancements-2.3.0.jar",
     "hashes": {
-      "sha1": "d698cb0149d192d3837d7e44c54f9c39db545bef",
-      "sha512": "f427f32f6f98db8fe9ebfa40ce9c2d768978c72c521bb0d2f6106194728234b163bc6f04bf57a0971f0c6eed6a74a0c79147bf7229943b9e4350b0b873844770"
+      "sha1": "d3709c29edca39a4d8c0d296c120adb376fd32af",
+      "sha512": "52851070d99c94885328ab4a4a89b14c873ab4ecde45236eb36b67784a66ce4cd3432f0517e78b92e41a1b44fb8a4b7b5fd58cce102253c11cb8609f009fc088"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "pJogNFap",
-    "versionId": "KyZlYcfx",
+    "versionId": "pVtBmxB6",
     "ignoreUpdates": false
   }
 }

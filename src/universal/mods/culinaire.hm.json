@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.5.0",
-    "size": 271546,
-    "fileName": "culinaire-2.5.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/MO1ODvmm/versions/2.5.0/culinaire-2.5.0.jar",
+    "name": "v3.0.0",
+    "size": 295126,
+    "fileName": "culinaire-3.0.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/MO1ODvmm/versions/EHWeIIJg/culinaire-3.0.0.jar",
     "hashes": {
-      "sha1": "ceec89a03231153e06403ac7858ab5c74226197d",
-      "sha512": "797547e40ea4f74cb3b093e955e11da4008edb6b8048cb6d93074e1d3ce39dbadcb8a33677c04adc8d0f2f93ad62ba0674e88cf62dc1fe7d47e539a481f2fb65"
+      "sha1": "363c086a77390a789a45a194b7cdde6014528f90",
+      "sha512": "18fdbd6d1e23797e1c08309f0dc0fd87e0d4ed748911f0232a5b81076de4e62e0d7c72bc8c3dc94775fc51df388eb31a3807bf74a8564999da0665fb3c8208ca"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "MO1ODvmm",
-    "versionId": "dxb25hIQ",
+    "versionId": "EHWeIIJg",
     "ignoreUpdates": false
   }
 }

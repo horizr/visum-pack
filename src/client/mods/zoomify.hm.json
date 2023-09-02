@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.8.0",
-    "size": 439129,
-    "fileName": "Zoomify-2.8.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/w7ThoJFB/versions/nls01OIv/Zoomify-2.8.0.jar",
+    "name": "2.11.2",
+    "size": 999881,
+    "fileName": "Zoomify-2.11.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.jar",
     "hashes": {
-      "sha1": "903a6b92da59e1ba8268b7983e3e3b6d619ca25e",
-      "sha512": "be4035b78ebe96db988248fd34b445f5589fa1d8f9b2e638e558bc83d146566775a57ff2c5044ce0eee8319b5d011140b5256a7b52101a22d5da0a94a8867462"
+      "sha1": "75d8785b79cd2333f4d1d326da55ba5fc6372f8d",
+      "sha512": "93b15012dab0e43a0ae4c32dc130e12baa4467c4d0a01a130f2a0fd8f8bf7ac5dd8b31660f98fb8124830f6b1e0e6973296251d614e4a85dfff30a5af4267ace"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "w7ThoJFB",
-    "versionId": "nls01OIv",
+    "versionId": "gZr7EykF",
     "ignoreUpdates": false
   }
 }

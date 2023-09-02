@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "2.7.1",
-    "size": 1062671,
-    "fileName": "promenade-2.7.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.7.1/promenade-2.7.1.jar",
+    "name": "v4.1.0",
+    "size": 4370344,
+    "fileName": "promenade-4.1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/GuE5FpvB/versions/F17sFUaS/promenade-4.1.0.jar",
     "hashes": {
-      "sha1": "f7794dc31ab41376f3db545dd1773df31eba0ed0",
-      "sha512": "c9893939b8dce91102af107cc4fcf69306e35531b0d3972e13138f56c5561d053715650fb6bbbb44dbb5b586d16704e589a55bd0826aa0f2abe79110c53dd151"
+      "sha1": "fd3de4e7392a264346ce3d56b034905c30815b92",
+      "sha512": "c9c86d22bcb2f9e9cf0205977ff8888f42588f71cedc94ba96d91e0568d54e82087d6a870d4bccb65f30756bd9566f5aec6fb810d6a56c8d0afb2e538d422ef2"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "GuE5FpvB",
-    "versionId": "uZy48sdY",
+    "versionId": "F17sFUaS",
     "ignoreUpdates": false
   }
 }

@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "8.2.88+fabric",
-    "size": 1141796,
-    "fileName": "cloth-config-8.2.88-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/EXrxCjl6/cloth-config-8.2.88-fabric.jar",
+    "name": "11.1.106+fabric",
+    "size": 1159179,
+    "fileName": "cloth-config-11.1.106-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/s7VTKfLA/cloth-config-11.1.106-fabric.jar",
     "hashes": {
-      "sha1": "4b93c69f22e9bdeeca201992e99632824b55f9cb",
-      "sha512": "6a135c608dadaf5dcc07601cbca456170025e39b8adec43915e08fc140ab5b3f0fb19e3123994e30cec88770a444265a1251289422cda2944c9a17007e58065c"
+      "sha1": "a05e176326365f2b8e377a35be52a5671491bcfd",
+      "sha512": "bce3d04905f49a331ade089332f0bb5f2329a81451f2acdd4d95590cb090dbc88f0192a85de342e705f4aea9f4cdf2add8b5ef842d0014e29f0a2a9c281984a2"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "9s6osm5g",
-    "versionId": "EXrxCjl6",
+    "versionId": "s7VTKfLA",
     "ignoreUpdates": false
   }
 }

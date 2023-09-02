@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "fabric-mc1.19-2.4.1",
-    "size": 1040951,
-    "fileName": "appleskin-fabric-mc1.19-2.4.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.19-2.4.1/appleskin-fabric-mc1.19-2.4.1.jar",
+    "name": "2.5.0+mc1.20",
+    "size": 1063094,
+    "fileName": "appleskin-fabric-mc1.20-2.5.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/CxnVG86Y/appleskin-fabric-mc1.20-2.5.0.jar",
     "hashes": {
-      "sha1": "7bd52695e82b1ddd1fdb3320154b68bf48dfff37",
-      "sha512": "13595728a6c81bec1537951b479b16852d74f1cf348b92a4caaf9742d51d4dd511805ef2d04cfea95ed16f1389a1156d6244c2fdcd7209043f2ecd1ac6539c2e"
+      "sha1": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991",
+      "sha512": "ffeec0410fa1a146788b53a727fcccfa0ef3de49245c553be52c9127c6417862742002d7a0eb11ed74d0ea0e743f2c1b1863f2d30806b38544120c02adcc2896"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "EsAfCjCV",
-    "versionId": "pIFVoWvG",
+    "versionId": "CxnVG86Y",
     "ignoreUpdates": false
   }
 }

@@ -9,7 +9,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Krypton` — network stack optimisation
 - `LazyDFU` — improves startup time
 - `Lithium` — general-purpose optimisation
-- `Phosphor` — lighting engine optimisation
 - `Sodium` — rendering engine replacement
 - `Chunky Pregenerator` — pre-generate chunks (server-only)
 
@@ -18,12 +17,10 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Enhanced Block Entities` — smooth lighting on block entities (+ performance improvements)
 - `Falling Leaves` — falling leaves particles
 - `Iris Shaders` — shaders
-- `LambdaBetterGrass` — smooth grass
 - `Sodium Extra` — more settings
 
 ### World-gen & decoration
 - `Adorn` — furniture
-- `Artisanat` — more block variations
 - `Cinderscapes` — more Nether biomes
 - `Decorative` — decoration
 - `Infinity Buttons` — more buttons
@@ -31,13 +28,8 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Promenade` — biomes, mobs and ducks
 - `Terrestria` — more Overworld biomes
 - `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
-- `Towers of the Wild: Additions` — BotW-like towers in the Nether and the End
 - `When Dungeons Arise` — dungeon structures
 - `Wilder Wild` — many enhancements
-- `YUNG's Better Desert Temples`
-- `YUNG's Better Dungeons`
-- `YUNG's Better Mineshafts`
-- `YUNG's Better Ocean Monuments`
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
@@ -56,23 +48,18 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Entity Texture Features` — random+emissive textures
 
 ### Miscellaneous
-- `Advancements Debug` — fixes an advancements-related bug
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
-- `Campanion` — various camping-themed items
-- `Charm` — miscellaneous vanilla enhancements
-- `Charmonium` — better ambient sounds
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
 - `Fabric Waystones` — waystones
+- `Gravestones`
 - `Light Overlay`
 - `No Telemetry` — disables telemetry
-- `You're in Grave Danger` — graves
 - `Zoomify` — zoom
 
 ### Modpack utilities
 - `OneTimeOverrides`
-- `Paxi`
 - `Main Menu Credits`
 
 ### Library
@@ -83,8 +70,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Fabric API`
 - `Fabric Language Kotlin`
 - `oωo`
-- `TerraBlender` — semi-hard dependency of `Promenade`
-- `YUNG's API`
 
 ## Not included
 ### Experimental
@@ -113,9 +98,15 @@ These mods would be in the pack if they were stable.
 - `Origins` — character classes
 
 ### Incompatible loader/version
+- `Artisanat` — more block variations
 - `Animal Feeding Trough`
-- `Decorative` — decoration blocks
+- `Campanion` — various camping-themed items
 - `Mo' Structures` — many new structures
+- `YUNG's API`
+- `YUNG's Better Desert Temples`
+- `YUNG's Better Dungeons`
+- `YUNG's Better Mineshafts`
+- `YUNG's Better Ocean Monuments`
 
 ## In consideration
 *None*

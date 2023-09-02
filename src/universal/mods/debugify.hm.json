@@ -1,20 +1,21 @@
 {
   "formatVersion": 1,
+  "displayName": "Debugify",
   "enabled": true,
   "version": {
-    "name": "2.8.0",
-    "size": 291413,
-    "fileName": "Debugify-2.8.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/UvBWAMZL/Debugify-2.8.0.jar",
+    "name": "1.20.1+2.0",
+    "size": 337545,
+    "fileName": "Debugify-1.20.1+2.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1%2B2.0.jar",
     "hashes": {
-      "sha1": "34bed20ce5145eeaac14ada47aa9f269ef2cc3b5",
-      "sha512": "7ad21d66192520b8bc056d33981a51901dd5150b8ea8f288418366dba73755ad352925293ea3048628e8481f0cac4d122f794a10382df52c6029e315b79587ac"
+      "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c",
+      "sha512": "4cbeeafd7daadcf8a54526b6f415eac39c8bd1459d44967f484c499f407b9625c10faa5c8f825946d97529d5d64fd7504669bc13ebc4c3eb2a143aa20b50e4bd"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "QwxR6Gcd",
-    "versionId": "UvBWAMZL",
-    "ignoreUpdates": false
+    "versionId": "6XDJoCks",
+    "ignoreUpdates": true
   }
 }

@@ -1,20 +1,21 @@
 {
   "formatVersion": 1,
+  "displayName": "Lanterns Belong on Walls",
   "enabled": true,
   "version": {
-    "name": "1.4.0",
-    "size": 144137,
-    "fileName": "lanterns-belong-on-walls-1.4.0-1.19.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/V1CFwy2A/versions/vLu1LNxL/lanterns-belong-on-walls-1.4.0-1.19.jar",
+    "name": "1.6.1+1.20.1",
+    "size": 175010,
+    "fileName": "lanterns-belong-on-walls-1.6.1+1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/V1CFwy2A/versions/VYSqdYTO/lanterns-belong-on-walls-1.6.1%2B1.20.1.jar",
     "hashes": {
-      "sha1": "af759089d24b0ec50baa7aef534b0079f58c2652",
-      "sha512": "12ae09b562b21ee99caaf866b2039650f5f8ccfca6649cf6f8b6143d44cd148660f21683c44ca0e43ade31cbbd03371f41264054d55985414ecee960e6af9a65"
+      "sha1": "37bd855b4747b702a140d3e176794b7c92e992e0",
+      "sha512": "be361f2dcfdc9c91e59dfa1eeff3328c87741112da307f4c56cf189ce6f012935ec661e07e718e016711a3741e83cf5c4de2fc39ef132d033f130b6b98f7875e"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "V1CFwy2A",
-    "versionId": "vLu1LNxL",
+    "versionId": "VYSqdYTO",
     "ignoreUpdates": false
   }
 }
