@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Obscure API",
+  "enabled": true,
+  "version": {
+    "name": "16",
+    "size": 405700,
+    "fileName": "Obscure-API-16.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/fU7jbFHc/versions/IWDYxZre/Obscure-API-16.jar",
+    "hashes": {
+      "sha1": "0272d0e5ddddd63a57b27130f3e317efb60ef509",
+      "sha512": "f0998d69174063420078fe96ff904665a33f3950475536c8ca8f0bda45417ef94a75598d417af4302e92d6a59ead1ea7e6721062b538f981f5f4dd16e8c1c5b1"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "fU7jbFHc",
+    "versionId": "IWDYxZre",
+    "ignoreUpdates": false
+  }
+}

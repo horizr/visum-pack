@@ -4,7 +4,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 
 ## Included
 ### Performance
-- `Cull Leaves` — culling for leaf blocks
 - `Dynamic FPS` — reduces FPS when in background
 - `Krypton` — network stack optimisation
 - `LazyDFU` — improves startup time
@@ -18,29 +17,41 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Falling Leaves` — falling leaves particles
 - `Iris Shaders` — shaders
 - `Sodium Extra` — more settings
+- `Not Enough Animations` — third-person animations
+- `Make Bubbles Pop`
+- `BedrockWaters` — biome-specific water properties
 
-### World-gen & decoration
+### World-gen
+#### Biomes
+- `BetterNether`
+- `BetterEnd`
+- `Terralith`
+
+#### Structures
+- `ChoiceTheorem's Overhauled Village` — more village types
+- `Wilder Wild` — many enhancements
+- `When Dungeons Arise` — dungeon structures
+- `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
+
+### Building blocks
 - `Adorn` — furniture
-- `Cinderscapes` — more Nether biomes
-- `Decorative` — decoration
+- `Cooking for Blockheads` — cooking and kitchen furniture
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
-- `Promenade` — biomes, mobs and ducks
-- `Terrestria` — more Overworld biomes
-- `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
-- `When Dungeons Arise` — dungeon structures
-- `Wilder Wild` — many enhancements
+- `Handcrafted` — furniture
+- `Chipped` — more block variants
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
-- `Here be no Dragons!` — disables the *experimental world settings* warning
-- `JourneyMap` — HUD map
 - `Mod Menu` — adds a mod menu
 - `Paginated Advancements` — improved advancements screen
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
-- `Roughly Enough Items`
 - `WTHIT` — looking-at HUD
+- `Better Statistics Screen`
+- `EMI` — item and recipe viewer
+- `EMIffect` — EMI addon for status effects
+- `EMI Loot` — EMI addon for loot drops
 
 ### Compatibility
 - `Indium` — `Lithium` + `Fabric Rendering API`
@@ -55,8 +66,10 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Fabric Waystones` — waystones
 - `Gravestones`
 - `Light Overlay`
-- `No Telemetry` — disables telemetry
 - `Zoomify` — zoom
+- `Traveler's Backpack` — backpacks
+- `Mouse Tweaks`
+- `Amecs` — better keybindings
 
 ### Modpack utilities
 - `OneTimeOverrides`
@@ -65,36 +78,40 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 ### Library
 - `Architectury API`
 - `bad packets`
+- `Balm`
 - `Cloth Config API`
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
 - `oωo`
+- `Cardinal Components API`
+- `Resourceful Lib`
+- `Athena`
+- `BCLib`
 
 ## Not included
 ### Experimental
-These mods would be in the pack if they were stable.
+These mods would be in the pack if they were stable/finished.
 - `Concurrent Chunk Management Engine` — multithreaded chunk management
 - `Consistency+`
 - `Immersive Portals`
 - `Resounding` — realistic sound physics
 - `Terra` — completely revamped world-gen
+- `Deeper and Darker` — enhance the Deep Dark
+- `Eureka` — custom ships, compatible with Create
 
 ### Alternative used
 - bug-fixing mods → `Debugify`.
-- `Better Recipe Book` → `Roughly Enough Items`
-- `DripSounds` → `Charmonium`
+- `Better Recipe Book` → `EMI`
 - `EditSign` → `Charm`
 - `FPS - Display` → `Sodium`
 - `Health Care` → `WTHIT`
 - `LambDynamicLights` → `Iris Shaders`
+- `Cinderscapes` → `Better Nether`
+- `No Telemetry` → `Debugify`
 
-### Not vanilla enough
+### Too special
 - `Additional Additions` — various items
-- `ChestTracker` — find items in chests
-- `EasierCrafting` — crafting through clicking
-- `Falling Tree` — cut down a tree by only breaking one block
-- `limitless` — removes enchanting limits
 - `Origins` — character classes
 
 ### Incompatible loader/version
@@ -109,4 +126,7 @@ These mods would be in the pack if they were stable.
 - `YUNG's Better Ocean Monuments`
 
 ## In consideration
-*None*
+- `ChestTracker` — find items in chests
+- `EasierCrafting` — crafting through clicking
+- `Falling Tree` — cut down a tree by only breaking one block
+- `limitless` — removes enchanting limits

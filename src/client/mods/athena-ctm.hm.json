@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Athena",
+  "enabled": true,
+  "version": {
+    "name": "3.1.0",
+    "size": 73623,
+    "fileName": "athena-fabric-1.20.1-3.1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/AusdtnY3/athena-fabric-1.20.1-3.1.0.jar",
+    "hashes": {
+      "sha1": "4e6fb9f4ba2e3607e6b1d30f0013a69025c4357b",
+      "sha512": "e882d97440b351acfec0ac38f6136023a4b4726b2b28b2d1cf9544f1b74438f292317499c60ac8a8f9790c77b1bfc07f65de63a0d9564ba461f5981d464f97ad"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "b1ZV3DIJ",
+    "versionId": "AusdtnY3",
+    "ignoreUpdates": false
+  }
+}

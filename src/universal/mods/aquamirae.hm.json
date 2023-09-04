@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Aquamirae",
+  "enabled": true,
+  "version": {
+    "name": "6",
+    "size": 16111383,
+    "fileName": "Aquamirae-6.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar",
+    "hashes": {
+      "sha1": "13feb2c346d372b3bec57f1ad2e151d87f65e5d6",
+      "sha512": "c047063fb7b54cf107554992a9341470c622c178a89a1135c9204b347034bf9dfc757f09f1f96fcc20852868c0c11fb18ca7151ec0e2b87556f516011b0f59b1"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "k23mNPhZ",
+    "versionId": "ouUaC54p",
+    "ignoreUpdates": false
+  }
+}

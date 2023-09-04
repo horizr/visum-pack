@@ -13,16 +13,6 @@ While creating a new instance, you can select the pack after searching for it in
 ### Additional recommendations
 - [`Complementary Shaders`](https://www.curseforge.com/minecraft/customization/complementary-shaders) — highly-configurable shader-pack
 
-## Notable changes
-- Clicking an item frame with an amethyst shard makes it invisible
-- Witches drop Luck potions
-- Snow accumulates in cold biomes
-- A crafting table can be used from the inventory
-- Crops can’t be trampled
-- Bats can be caught in buckets and let nearby entities glow for 20s when they are released
-- Enchantment books and potions are stackable (16)
-- Spyglass zooming can be adjusted by scrolling and there is a keybind for using it
-
 ## Development
 [horizr CLI](https://github.com/horizr/cli) is used for pack management.
 

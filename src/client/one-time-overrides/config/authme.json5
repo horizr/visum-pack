@@ -6,7 +6,7 @@
 		// Position of the button on the multiplayer screen
 		"y": 6,
 		// True if the button can be dragged to a new position
-		"draggable": false //HORIZR
+		"draggable": false
 	},
 	// Login Methods
 	"methods": {
@@ -19,9 +19,9 @@
 			// OAuth2 client id
 			"clientId": "e16699bb-2aa8-46da-b5e3-45cbcce29091",
 			// OAuth2 authorization url
-			"authorizeUrl": "https://login.live.com/oauth20_authorize.srf",
+			"authorizeUrl": "https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize",
 			// OAuth2 access token url
-			"tokenUrl": "https://login.live.com/oauth20_token.srf",
+			"tokenUrl": "https://login.microsoftonline.com/consumers/oauth2/v2.0/token",
 			// Xbox authentication url
 			"xboxAuthUrl": "https://user.auth.xboxlive.com/user/authenticate",
 			// Xbox XSTS authorization url

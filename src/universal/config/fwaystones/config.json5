@@ -1,6 +1,7 @@
 {
 	"worldgen": {
 		"generate_in_villages": true,
+		"unbreakable_generated_waystones": true,
 		"min_per_village": 1,
 		"max_per_village": 1,
 		"village_waystone_weight": 2
@@ -9,20 +10,20 @@
 		"cost_type": "HUNGER",
 		"cost_item": "minecraft:ender_pearl",
 		"base_cost": 4,
-		"cost_per_block_distance": 0.10000000149011612,
-		"cost_multiplier_between_dimensions": 3.0
+		"cost_per_block_distance": 0.009999999776482582,
+		"cost_multiplier_between_dimensions": 1.5
 	},
 	"discover_with_item": "none",
 	"take_amount_from_discover_item": 0,
 	"consume_infinite_knowledge_scroll_on_use": false,
-	"consume_local_void_on_use": true,
+	"consume_local_void_on_use": false,
 	"free_local_void_teleport": true,
 	"store_waystone_data_on_sneak_break": true,
 	"discover_waystone_on_map_use": false,
 	"can_owners_redeem_payments": false,
-	"waystone_block_hardness": 10.0,
+	"waystone_block_hardness": 4.0,
 	"waystone_block_required_mining_level": 1,
-	"permission_level_for_breaking_waystones": "OWNER",
+	"permission_level_for_breaking_waystones": "ANYONE",
 	"global_mode_toggle_permission_levels": "OWNER",
 	"teleportation_cooldown": {
 		"cooldown_ticks_when_hurt": 0,

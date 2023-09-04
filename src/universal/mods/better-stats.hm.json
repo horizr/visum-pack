@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Better Statistics Screen",
+  "enabled": true,
+  "version": {
+    "name": "v2.10.3+fabric-1.20.1",
+    "size": 2845259,
+    "fileName": "betterstats-2.10.3+1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/n6PXGAoM/versions/WLBCUkWu/betterstats-2.10.3%2B1.20.1.jar",
+    "hashes": {
+      "sha1": "12fcb4fe11aa763afae26b8691de8cf8a4dcf82a",
+      "sha512": "d75beac19f6d0bbb50db02b419083f365b3210270629834b32d8e9b55fce255dd5fa81f1ba67f24f483f0b1c3a630d33c80e07afce1aff2adfbcb3ee15625ac4"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "n6PXGAoM",
+    "versionId": "WLBCUkWu",
+    "ignoreUpdates": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Amecs",
+  "enabled": true,
+  "version": {
+    "name": "1.3.9+mc.1.20.1",
+    "size": 177862,
+    "fileName": "amecs-1.3.9+mc.1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/rcLriA4v/versions/97ZA8JmI/amecs-1.3.9%2Bmc.1.20.1.jar",
+    "hashes": {
+      "sha1": "9c6b9f99c12cb1209f39cf83dabe05b9f4cbdd24",
+      "sha512": "298ac9201fb133459ce0afb17ea1bc682fbc949564a4bc25d9376009a5cd57dfd4a7c27710e4d54cd8c9a564b986b942505070191090f0dcb3bc828052206caa"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "rcLriA4v",
+    "versionId": "97ZA8JmI",
+    "ignoreUpdates": false
+  }
+}

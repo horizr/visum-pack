@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Mouse Tweaks",
+  "enabled": true,
+  "version": {
+    "name": "1.20-2.25-fabric",
+    "size": 77342,
+    "fileName": "MouseTweaks-fabric-mc1.20-2.25.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/m0Dd8Cjy/MouseTweaks-fabric-mc1.20-2.25.jar",
+    "hashes": {
+      "sha1": "21ae6dd81324543e77c10bbb2b928320d71b6750",
+      "sha512": "04f017920be9e982c945df0d27ef93a4cace730b7bc6fd46a82c028c50f7d6819ec0a4c28a4454bc681b4591eeddb08b74c330cb577d7a697a2391fcc11d925d"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "aC3cM3Vq",
+    "versionId": "m0Dd8Cjy",
+    "ignoreUpdates": false
+  }
+}

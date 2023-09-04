@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Terralith",
+  "enabled": true,
+  "version": {
+    "name": "2.4.5",
+    "size": 2739962,
+    "fileName": "Terralith_1.20.1_v2.4.5.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/8oi3bsk5/versions/hYoo0DKV/Terralith_1.20.1_v2.4.5.jar",
+    "hashes": {
+      "sha1": "550446ab3401fe21b6f4761b3c23d7aa4fcab2cc",
+      "sha512": "50b3200756130996649f48c3ba647b12e6a1f441dbfc80d62cae51d0d3814be83a9ec8a756ab94a18e913701472e1e18cdc2630ac8aed286132b57c7186be556"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "8oi3bsk5",
+    "versionId": "hYoo0DKV",
+    "ignoreUpdates": false
+  }
+}

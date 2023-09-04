@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "EMIffect",
+  "enabled": true,
+  "version": {
+    "name": "fabric-1.1.1+mc1.20.1",
+    "size": 18370,
+    "fileName": "emiffect-fabric-1.1.1+mc1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/705gWllI/versions/snwqJj9A/emiffect-fabric-1.1.1%2Bmc1.20.1.jar",
+    "hashes": {
+      "sha1": "01bdb198a9877a3c3fdb5e3f1d5dc2d63a8e2c9e",
+      "sha512": "92d2678b03efeebfcb3a54867f5a775dc075f9ac295f1b386f0932be63333ab1430aef694f7056ed2c03bec9482e0af064dcd46ec9cb8c7cf39f324a024c07db"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "705gWllI",
+    "versionId": "snwqJj9A",
+    "ignoreUpdates": false
+  }
+}

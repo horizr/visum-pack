@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Cooking for Blockheads",
+  "enabled": true,
+  "version": {
+    "name": "16.0.0+fabric-1.20",
+    "size": 670351,
+    "fileName": "cookingforblockheads-fabric-1.20-16.0.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/vJnhuDde/versions/ZDOSMTDm/cookingforblockheads-fabric-1.20-16.0.0.jar",
+    "hashes": {
+      "sha1": "322cbe1dc76faad408b3f26f4b278fe8d026349a",
+      "sha512": "4a4d26cef309d4d255bd6d4dddf435ffd8f18ab154faa1f1d524d594dd6c511076906458c56dfcc0741c7be89520914a753e46fe6cb0091487164313552b057a"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "vJnhuDde",
+    "versionId": "ZDOSMTDm",
+    "ignoreUpdates": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "BetterNether",
+  "enabled": true,
+  "version": {
+    "name": "9.0.9",
+    "size": 23134254,
+    "fileName": "better-nether-9.0.9.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/MpzVLzy5/versions/9kJblF2V/better-nether-9.0.9.jar",
+    "hashes": {
+      "sha1": "ee7275b0d3f627520c9d17dd3c942ec82ca093a7",
+      "sha512": "f14d528cfec6762d4e687d7c9477e215e06dfa76966578a8d8d90a82316604d5432690d4cd9cac94c40a2d8da38c911cc7c186dc66080ba346f45da1b308bb5a"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "MpzVLzy5",
+    "versionId": "9kJblF2V",
+    "ignoreUpdates": false
+  }
+}
