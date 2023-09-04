@@ -47,7 +47,6 @@ The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidni
 - `Paginated Advancements` — improved advancements screen
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
-- `WTHIT` — looking-at HUD
 - `Better Statistics Screen`
 - `EMI` — item and recipe viewer
 - `EMIffect` — EMI addon for status effects
@@ -105,7 +104,6 @@ These mods would be in the pack if they were stable/finished.
 - `Better Recipe Book` → `EMI`
 - `EditSign` → `Charm`
 - `FPS - Display` → `Sodium`
-- `Health Care` → `WTHIT`
 - `LambDynamicLights` → `Iris Shaders`
 - `Cinderscapes` → `Better Nether`
 - `No Telemetry` → `Debugify`
@@ -124,9 +122,3 @@ These mods would be in the pack if they were stable/finished.
 - `YUNG's Better Dungeons`
 - `YUNG's Better Mineshafts`
 - `YUNG's Better Ocean Monuments`
-
-## In consideration
-- `ChestTracker` — find items in chests
-- `EasierCrafting` — crafting through clicking
-- `Falling Tree` — cut down a tree by only breaking one block
-- `limitless` — removes enchanting limits
