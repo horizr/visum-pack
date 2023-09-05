@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Animal Feeding Trough",
+  "enabled": true,
+  "version": {
+    "name": "1.0.3+1.20.1",
+    "size": 239828,
+    "fileName": "animal_feeding_trough-1.0.3+1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/bRFWnJ87/versions/e7lJtonz/animal_feeding_trough-1.0.3%2B1.20.1.jar",
+    "hashes": {
+      "sha1": "a1a616ae9ae613d3d07426ca590ae626280b303d",
+      "sha512": "3462e78c59702050d664c345371da73a82b921ac600f551bed64428a7a2b4f28d8998b6946706e4b6a6b4a59e2a9b1fcb4732fc50e859a72ec119cda1f2ac6f3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "bRFWnJ87",
+    "versionId": "e7lJtonz",
+    "ignoreUpdates": false
+  }
+}

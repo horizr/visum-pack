@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Additional Additions",
+  "enabled": true,
+  "version": {
+    "name": "6.0.1",
+    "size": 4228090,
+    "fileName": "AdditionalAdditions-6.0.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/R4TvILfj/versions/pHSXV73g/AdditionalAdditions-6.0.1.jar",
+    "hashes": {
+      "sha1": "38c181f354f5ea065ec4919de233ac017b238506",
+      "sha512": "aafe08c7bc3ac44d0a945a12e702ca3afe0eb7a2ee30ae9b6f58c864a3a6e4ae889323d0935c4eece20d1884daa3cd591e0652c044422f413c4686e4cf9b8fd7"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "R4TvILfj",
+    "versionId": "pHSXV73g",
+    "ignoreUpdates": false
+  }
+}

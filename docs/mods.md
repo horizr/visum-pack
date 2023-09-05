@@ -4,57 +4,57 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 
 ## Included
 ### Performance
+- `Chunky Pregenerator` — pre-generate chunks (server-only)
 - `Dynamic FPS` — reduces FPS when in background
 - `Krypton` — network stack optimisation
 - `LazyDFU` — improves startup time
 - `Lithium` — general-purpose optimisation
 - `Sodium` — rendering engine replacement
-- `Chunky Pregenerator` — pre-generate chunks (server-only)
 
 ### Graphics
+- `BedrockWaters` — biome-specific water properties
 - `Continuity` — connected textures
 - `Enhanced Block Entities` — smooth lighting on block entities (+ performance improvements)
 - `Falling Leaves` — falling leaves particles
 - `Iris Shaders` — shaders
-- `Sodium Extra` — more settings
-- `Not Enough Animations` — third-person animations
 - `Make Bubbles Pop`
-- `BedrockWaters` — biome-specific water properties
+- `Not Enough Animations` — third-person animations
+- `Sodium Extra` — more settings
 
 ### World-gen
-#### Biomes
-- `BetterNether`
 - `BetterEnd`
-- `Wilder Wild` — many enhancements
-
-#### Structures
+- `BetterNether`
 - `ChoiceTheorem's Overhauled Village` — more village types
+- `Wilder Wild`
 
 ### Building blocks
 - `Adorn` — furniture
+- `Chipped` — more block variants
 - `Cooking for Blockheads` — cooking and kitchen furniture
+- `Handcrafted` — furniture
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
-- `Handcrafted` — furniture
-- `Chipped` — more block variants
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
+- `Better Statistics Screen`
+- `EMI Loot` — EMI addon for loot drops
+- `EMI` — item and recipe viewer
+- `EMIffect` — EMI addon for status effects
 - `Mod Menu` — adds a mod menu
 - `Paginated Advancements` — improved advancements screen
 - `Raised` — fixes the hotbar position
 - `Reese's Sodium Options` — replaces the graphics settings
-- `Better Statistics Screen`
-- `EMI` — item and recipe viewer
-- `EMIffect` — EMI addon for status effects
-- `EMI Loot` — EMI addon for loot drops
 
 ### Compatibility
-- `Indium` — `Lithium` + `Fabric Rendering API`
 - `Animatica` — animated textures
 - `Entity Texture Features` — random+emissive textures
+- `Indium` — `Lithium` + `Fabric Rendering API`
 
 ### Miscellaneous
+- `Additional Additions` — various items
+- `Amecs` — better keybindings
+- `Animal Feeding Trough` — block allowing animals to self-feed
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
 - `Culinaire` — more food items
@@ -62,60 +62,49 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Fabric Waystones` — waystones
 - `Gravestones`
 - `Light Overlay`
-- `Zoomify` — zoom
-- `Traveler's Backpack` — backpacks
 - `Mouse Tweaks`
-- `Amecs` — better keybindings
+- `Traveler's Backpack` — backpacks
+- `Zoomify` — zoom
 
 ### Modpack utilities
-- `OneTimeOverrides`
 - `Main Menu Credits`
+- `OneTimeOverrides`
 
 ### Library
 - `Architectury API`
+- `Athena`
 - `bad packets`
 - `Balm`
+- `BCLib`
+- `Cardinal Components API`
 - `Cloth Config API`
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
 - `oωo`
-- `Cardinal Components API`
 - `Resourceful Lib`
-- `Athena`
-- `BCLib`
 
 ## Not included
 ### Experimental
 These mods would be in the pack if they were stable/finished.
 - `Concurrent Chunk Management Engine` — multithreaded chunk management
 - `Consistency+`
+- `Deeper and Darker` — enhance the Deep Dark
 - `Immersive Portals`
 - `Resounding` — realistic sound physics
-- `Terra` — completely revamped world-gen
-- `Deeper and Darker` — enhance the Deep Dark
-- `Eureka` — custom ships, compatible with Create
 
 ### Alternative used
-- bug-fixing mods → `Debugify`.
 - `Better Recipe Book` → `EMI`
+- `Cinderscapes` → `Better Nether`
 - `EditSign` → `Charm`
 - `FPS - Display` → `Sodium`
 - `LambDynamicLights` → `Iris Shaders`
-- `Cinderscapes` → `Better Nether`
 - `No Telemetry` → `Debugify`
+- bug-fixing mods → `Debugify`.
 
 ### Too special
-- `Additional Additions` — various items
+- `Eureka` — custom ships, compatible with Create
 - `Origins` — character classes
 
 ### Incompatible loader/version
-- `Artisanat` — more block variations
-- `Animal Feeding Trough`
 - `Campanion` — various camping-themed items
-- `Mo' Structures` — many new structures
-- `YUNG's API`
-- `YUNG's Better Desert Temples`
-- `YUNG's Better Dungeons`
-- `YUNG's Better Mineshafts`
-- `YUNG's Better Ocean Monuments`
