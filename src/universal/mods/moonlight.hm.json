@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Moonlight Lib",
+  "enabled": true,
+  "version": {
+    "name": "1.20-2.8.16",
+    "size": 910628,
+    "fileName": "moonlight-1.20-2.8.16-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/mHeZr8dp/moonlight-1.20-2.8.16-fabric.jar",
+    "hashes": {
+      "sha1": "2df3f11801ce3b64a5a3da6d70f000f2855e71c1",
+      "sha512": "6bc0dfb19ac52f0c571b6134cba2963a8e25b66c11a2d5e82d0cf1db3c04f854e1986557a8fd97ace296dec301c8c4e0458287de01fdb30d1dd03244903d364b"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "twkfQtEc",
+    "versionId": "mHeZr8dp",
+    "ignoreUpdates": false
+  }
+}

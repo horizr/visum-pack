@@ -63,6 +63,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Gravestones`
 - `Light Overlay`
 - `Mouse Tweaks`
+- `Supplementaries` — various items
 - `Traveler's Backpack` — backpacks
 - `Zoomify` — zoom
 
@@ -81,6 +82,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Dawn API`
 - `Fabric API`
 - `Fabric Language Kotlin`
+- `Moonlight Lib`
 - `oωo`
 - `Resourceful Lib`
 
@@ -100,7 +102,7 @@ These mods would be in the pack if they were stable/finished.
 - `FPS - Display` → `Sodium`
 - `LambDynamicLights` → `Iris Shaders`
 - `No Telemetry` → `Debugify`
-- bug-fixing mods → `Debugify`.
+- bug-fixing mods → `Debugify`
 
 ### Too special
 - `Eureka` — custom ships, compatible with Create

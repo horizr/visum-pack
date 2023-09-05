@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Supplementaries",
+  "enabled": true,
+  "version": {
+    "name": "1.20-2.5.28",
+    "size": 14260885,
+    "fileName": "supplementaries-1.20-2.5.28-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ZqJBsA8q/supplementaries-1.20-2.5.28-fabric.jar",
+    "hashes": {
+      "sha1": "fa4fbcfad1d006b9daa61c0dc0b70c833ab34454",
+      "sha512": "cbb735b271cb6eef688bc62d12961ba233d9ee86ee7c3246d9e2e2269abb34d1f0437dcd45d8a8ac51008f31b6f957d8e515234dcf629a1507e1bba5ac2d3c79"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "fFEIiSDQ",
+    "versionId": "ZqJBsA8q",
+    "ignoreUpdates": false
+  }
+}
