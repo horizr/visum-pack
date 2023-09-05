@@ -82,6 +82,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Moonlight Lib` — required by `Supplementaries`
 - `oωo` — required by `Fabric Waystones`, `Infinity Buttons`
 - `Resourceful Lib` — required by `Chipped`, `Handcrafted`
+- `Statement` — required by `Lanterns Belong on Walls`
 
 ## Not included
 ### Experimental
