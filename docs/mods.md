@@ -72,19 +72,16 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `OneTimeOverrides`
 
 ### Library
-- `Architectury API`
-- `Athena`
-- `bad packets`
-- `Balm`
-- `BCLib`
-- `Cardinal Components API`
-- `Cloth Config API`
-- `Dawn API`
+- `Athena` — required by `Chipped`
+- `Balm` — required by `Cooking for Blockheads`
+- `BCLib` — by `BetterNether`, `BetterEnd`
+- `Cardinal Components API` — required by `Traveler's Backpack`
+- `Dawn API` — required by `Culinaire`
 - `Fabric API`
-- `Fabric Language Kotlin`
-- `Moonlight Lib`
-- `oωo`
-- `Resourceful Lib`
+- `Fabric Language Kotlin` — required by `Adorn`, `OneTimeOverrides`, `Zoomify`
+- `Moonlight Lib` — required by `Supplementaries`
+- `oωo` — required by `Fabric Waystones`, `Infinity Buttons`
+- `Resourceful Lib` — required by `Chipped`, `Handcrafted`
 
 ## Not included
 ### Experimental
