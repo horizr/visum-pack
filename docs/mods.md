@@ -1,6 +1,6 @@
 # Mods
 
-The [`Better Leaves` resource-pack by MidnightDust](https://github.com/TeamMidnightDust/BetterLeavesPack) is preinstalled.
+The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourcepack/better-leaves) is preinstalled.
 
 ## Included
 ### Performance
