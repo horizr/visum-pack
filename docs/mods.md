@@ -25,13 +25,10 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 #### Biomes
 - `BetterNether`
 - `BetterEnd`
-- `Terralith`
+- `Wilder Wild` — many enhancements
 
 #### Structures
 - `ChoiceTheorem's Overhauled Village` — more village types
-- `Wilder Wild` — many enhancements
-- `When Dungeons Arise` — dungeon structures
-- `Towers of the Wild: Reworked` (data-pack) — BotW-like towers in the Overworld
 
 ### Building blocks
 - `Adorn` — furniture
