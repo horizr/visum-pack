@@ -59,6 +59,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Axes are Weapons` — allows sword enchantments for axes
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
+- `Extended Drawers` — storage drawers
 - `Fabric Waystones` — waystones
 - `Gravestones`
 - `Light Overlay`
@@ -83,6 +84,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `oωo` — required by `Fabric Waystones`, `Infinity Buttons`
 - `Resourceful Lib` — required by `Chipped`, `Handcrafted`
 - `Statement` — required by `Lanterns Belong on Walls`
+- `YetAnotherConfigLib` — required by `Zoomify`
 
 ## Not included
 ### Experimental
