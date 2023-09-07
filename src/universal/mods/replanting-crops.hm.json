@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Replanting Crops",
+  "enabled": true,
+  "version": {
+    "name": "1.20.1-5.1-forge+fabric",
+    "size": 32443,
+    "fileName": "replantingcrops-1.20.1-5.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/EXzIPtJo/versions/ki5wouxc/replantingcrops-1.20.1-5.1.jar",
+    "hashes": {
+      "sha1": "4b0201fdf071bd2cf53aabf5749e24332d2e59cb",
+      "sha512": "9bc75dbed3ebe3c929ae76d970751d5b2617aa434d57c891241bbd10da478a25bcc5825117f3659db195906ed2b7e7da02c4d4e4004308319fcebe0b84584cc7"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "EXzIPtJo",
+    "versionId": "ki5wouxc",
+    "ignoreUpdates": false
+  }
+}

@@ -64,6 +64,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Gravestones`
 - `Light Overlay`
 - `Mouse Tweaks`
+- `Replanting Crops` — automatically replants crops harvested with a hoe
 - `Stack Refill` — automatically refills the player’s hand
 - `Supplementaries` — various items
 - `Traveler's Backpack` — backpacks
@@ -79,7 +80,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Balm` — required by `Cooking for Blockheads`
 - `BCLib` — by `BetterNether`, `BetterEnd`
 - `Cardinal Components API` — required by `Traveler's Backpack`
-- `Collective` — required by `Stack Refill`, `Tree Harvester`
+- `Collective` — required by `Stack Refill`, `Tree Harvester`, `Replanting Crops`
 - `Dawn API` — required by `Culinaire`
 - `Fabric API`
 - `Fabric Language Kotlin` — required by `Adorn`, `OneTimeOverrides`, `Zoomify`
@@ -87,6 +88,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `oωo` — required by `Fabric Waystones`, `Infinity Buttons`
 - `Resourceful Lib` — required by `Chipped`, `Handcrafted`
 - `Statement` — required by `Lanterns Belong on Walls`
+- `Trinkets` — required by `Traveler's Backpack`
 - `YetAnotherConfigLib` — required by `Zoomify`
 
 ## Not included

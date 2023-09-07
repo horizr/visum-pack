@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Trinkets",
+  "enabled": true,
+  "version": {
+    "name": "3.7.1",
+    "size": 234448,
+    "fileName": "trinkets-3.7.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/5aaWibi9/versions/e563ycts/trinkets-3.7.1.jar",
+    "hashes": {
+      "sha1": "eb2a91a80d18513ca0b9ea3f76fc86422166e440",
+      "sha512": "e2869ce20fc87025a8a7d2cbca58ff4857f287004141f51e4b297ea240c18950d5c0ddff258547731974a763efd835d8c3c283804dae03a42e31cb761800f75d"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "5aaWibi9",
+    "versionId": "e563ycts",
+    "ignoreUpdates": false
+  }
+}
