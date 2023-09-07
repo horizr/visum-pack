@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Stack Refill",
+  "enabled": true,
+  "version": {
+    "name": "1.20.1-4.0-forge+fabric",
+    "size": 34660,
+    "fileName": "stackrefill-1.20.1-4.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/mQWkB9ON/versions/37gXvRIW/stackrefill-1.20.1-4.0.jar",
+    "hashes": {
+      "sha1": "d1e2e4f7cca47abaa6813da6a1745c0bbf47c793",
+      "sha512": "f53ed61a738b0db9d37ef99f2d93370e0ff686f3e8f3c98211eba6cdd159a67c983d4dbe38347bfd948927bdb4d736f812f1f26c43f533bbbcd06aa5bbac040c"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "mQWkB9ON",
+    "versionId": "37gXvRIW",
+    "ignoreUpdates": false
+  }
+}

@@ -64,8 +64,10 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Gravestones`
 - `Light Overlay`
 - `Mouse Tweaks`
+- `Stack Refill` — automatically refills the player’s hand
 - `Supplementaries` — various items
 - `Traveler's Backpack` — backpacks
+- `Tree Harvester` — fast tree harvesting + fast leaf decay
 - `Zoomify` — zoom
 
 ### Modpack utilities
@@ -77,6 +79,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Balm` — required by `Cooking for Blockheads`
 - `BCLib` — by `BetterNether`, `BetterEnd`
 - `Cardinal Components API` — required by `Traveler's Backpack`
+- `Collective` — required by `Stack Refill`, `Tree Harvester`
 - `Dawn API` — required by `Culinaire`
 - `Fabric API`
 - `Fabric Language Kotlin` — required by `Adorn`, `OneTimeOverrides`, `Zoomify`

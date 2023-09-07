@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Collective",
+  "enabled": true,
+  "version": {
+    "name": "1.20.1-6.65-forge+fabric",
+    "size": 618381,
+    "fileName": "collective-1.20.1-6.65.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/W1CQ9UCz/collective-1.20.1-6.65.jar",
+    "hashes": {
+      "sha1": "ed906fb381167f195ae28aabf3d94363f7f44697",
+      "sha512": "a0f163dfaade2e8be2b567950b1e0eea1a7431ff4edd935e1ca2fb992c9a395be00fe7ca6ccd4b0d54c3df2a51d951824501e778c5041bba1bfaa9e6cf318a8a"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "e0M1UDsY",
+    "versionId": "W1CQ9UCz",
+    "ignoreUpdates": false
+  }
+}
