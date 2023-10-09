@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Crawl",
+  "enabled": true,
+  "version": {
+    "name": "0.12.0",
+    "size": 97866,
+    "fileName": "crawl-0.12.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/H1JOVjhn/versions/G7rwJQKo/crawl-0.12.0.jar",
+    "hashes": {
+      "sha1": "b8ae38f022751a45900af7cd49737bb11e524fe9",
+      "sha512": "9d60eaedcbdae930a06baa04422a77f13a90f54764be8003aa1398b79f7d7d71db787c2e5d39cde69a23fcda12ba3e891bfcd16d523b43cb9b381cad16f8ad53"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "H1JOVjhn",
+    "versionId": "G7rwJQKo",
+    "ignoreUpdates": false
+  }
+}

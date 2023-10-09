@@ -57,6 +57,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Animal Feeding Trough` — block allowing animals to self-feed
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
+- `Crawl` — allows to crawl by pressing a key
 - `Culinaire` — more food items
 - `Debugify` — fixes various bugs
 - `Extended Drawers` — storage drawers
