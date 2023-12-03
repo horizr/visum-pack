@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "0.11.1+1.20",
-    "size": 905257,
-    "fileName": "owo-lib-0.11.1+1.20.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/ccKDOlHs/versions/m23n3uIM/owo-lib-0.11.1%2B1.20.jar",
+    "name": "0.11.2+1.20",
+    "size": 905421,
+    "fileName": "owo-lib-0.11.2+1.20.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar",
     "hashes": {
-      "sha1": "7b1250bec079bd2a116fcdd453f42f5929b8cfe4",
-      "sha512": "efd542dab1dddaad79b56a352842b1e2e352c221d2f1312f8028168a7ac2a3139c5c9b8c98503720c477e4491c46131effd3e55a7f466c1793f9f37f45cb6110"
+      "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a",
+      "sha512": "807e4a3daf493e92c5ff0d5657efbba2a4e0cd2a9b753f2d6f153422629415f189345842a6dd258c87d4c02ebf38950a517bcd8a7ed929af6ed6485ae46cf77e"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "ccKDOlHs",
-    "versionId": "m23n3uIM",
+    "versionId": "zyOBB7J4",
     "ignoreUpdates": false
   }
 }

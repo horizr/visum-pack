@@ -3,19 +3,19 @@
   "displayName": "Stack Refill",
   "enabled": true,
   "version": {
-    "name": "1.20.1-4.0-forge+fabric",
-    "size": 34660,
-    "fileName": "stackrefill-1.20.1-4.0.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/mQWkB9ON/versions/37gXvRIW/stackrefill-1.20.1-4.0.jar",
+    "name": "1.20.1-4.1-forge+fabric",
+    "size": 34646,
+    "fileName": "stackrefill-1.20.1-4.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/mQWkB9ON/versions/uANk4nhZ/stackrefill-1.20.1-4.1.jar",
     "hashes": {
-      "sha1": "d1e2e4f7cca47abaa6813da6a1745c0bbf47c793",
-      "sha512": "f53ed61a738b0db9d37ef99f2d93370e0ff686f3e8f3c98211eba6cdd159a67c983d4dbe38347bfd948927bdb4d736f812f1f26c43f533bbbcd06aa5bbac040c"
+      "sha1": "db5caf1c3856786e3bf5a3008b09e8b4693032e3",
+      "sha512": "a16ae4fc101d05ec5ed01cb9008079f8656b4883895315abde3ec7e74e2e27936f6ec71ee0c46cb5b60a02b09677e89657401904c2a06ca3581ffa42ac578c0e"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "mQWkB9ON",
-    "versionId": "37gXvRIW",
+    "versionId": "uANk4nhZ",
     "ignoreUpdates": false
   }
 }

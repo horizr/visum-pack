@@ -3,19 +3,19 @@
   "displayName": "[ETF] Entity Texture Features",
   "enabled": true,
   "version": {
-    "name": "4.5.1",
-    "size": 457226,
-    "fileName": "entity_texture_features_fabric_1.20-4.5.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/UPenaMj3/entity_texture_features_fabric_1.20-4.5.1.jar",
+    "name": "4.6.1",
+    "size": 516533,
+    "fileName": "entity_texture_features_fabric_1.20.1-4.6.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/aG9vZFHa/entity_texture_features_fabric_1.20.1-4.6.1.jar",
     "hashes": {
-      "sha1": "19d45b9054a2854ced2e50f45765d76b47a2a4ba",
-      "sha512": "5a6f54123ab0662d7eadcfe6aab987bf6b48915fcc141b1d27e06de96e02374252c7f386ccfc173522be12024575daea319554f007f53d1ae6d8357fb8c9a6c0"
+      "sha1": "253c11fe998c7c6d5dff9f01d60b5edff2c12963",
+      "sha512": "802a7a6c32ed5bae8277fab9af2a1e69ccd07511115cf577d170e0937f069cd8e7bd7e7bd81e4d9dd37fdce8a870ab05f60b308d1f07948431f815b984ff49d9"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "BVzZfTc1",
-    "versionId": "UPenaMj3",
+    "versionId": "aG9vZFHa",
     "ignoreUpdates": false
   }
 }

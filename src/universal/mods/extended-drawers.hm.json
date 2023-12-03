@@ -3,19 +3,19 @@
   "displayName": "Extended Drawers",
   "enabled": true,
   "version": {
-    "name": "2.0.5+mc.1.20.1",
-    "size": 2336303,
-    "fileName": "ExtendedDrawers-2.0.5+mc.1.20.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/AhtxbnpG/versions/bMTgXYHf/ExtendedDrawers-2.0.5%2Bmc.1.20.1.jar",
+    "name": "2.0.8+mc.1.20.1",
+    "size": 2555025,
+    "fileName": "ExtendedDrawers-2.0.8+mc.1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/AhtxbnpG/versions/TT5IhBIV/ExtendedDrawers-2.0.8%2Bmc.1.20.1.jar",
     "hashes": {
-      "sha1": "da30ddcb45651e6070cecf2208c7e8ad179e0169",
-      "sha512": "9792945c4ea5d3225ecd37a5128f688faa9c02ad63999feb3f35e1516b1c426caae78c9a5ae38d8be7d4f50ba00885e669cf32a7ee948c644e9f68f3eea41b47"
+      "sha1": "a2b7981affcef4276537e7a81291498397507929",
+      "sha512": "c8d6ab378231139bdff81b364786e16dc4c892617949282a1ef16410ee251db3d7d99619011a42847082f1643f40f1f0838d05336b380b5c6670c36f71a97475"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "AhtxbnpG",
-    "versionId": "bMTgXYHf",
+    "versionId": "TT5IhBIV",
     "ignoreUpdates": false
   }
 }

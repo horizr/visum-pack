@@ -3,19 +3,19 @@
   "displayName": "EMI",
   "enabled": true,
   "version": {
-    "name": "1.0.19+1.20.1+fabric",
-    "size": 960020,
-    "fileName": "emi-1.0.19+1.20.1+fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/fRiHVvU7/versions/K2ePWegL/emi-1.0.19%2B1.20.1%2Bfabric.jar",
+    "name": "1.0.26+1.20.1+fabric",
+    "size": 976955,
+    "fileName": "emi-1.0.26+1.20.1+fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/fRiHVvU7/versions/RNRM4uV3/emi-1.0.26%2B1.20.1%2Bfabric.jar",
     "hashes": {
-      "sha1": "2a2dcf2efc095344f7f8ce95225fe6098ea04af6",
-      "sha512": "6a3d765c0437714f6c275274999d5fe7cef19b6a4a544bfee5f083b9160a0d2e4f7fb99d6b9ede94a5b84269b53b43b6f06bb173a61440e0d0853f96cbfa34fd"
+      "sha1": "3efda99a69997cd7b4947c89562882467c53d937",
+      "sha512": "59a28ed292b0f1dcd95c31f226f0ad1557dcd95dbdd657128b48ac65fcd4aa05671eb5ca1a644e38067ee7ac21c6a219726a30e8a4a80596398bcdbfcbd13bcd"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "fRiHVvU7",
-    "versionId": "K2ePWegL",
+    "versionId": "RNRM4uV3",
     "ignoreUpdates": false
   }
 }

@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "1.10.10+kotlin.1.9.10",
-    "size": 6722438,
-    "fileName": "fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/Ha28R6CL/versions/48ri5y9r/fabric-language-kotlin-1.10.10%2Bkotlin.1.9.10.jar",
+    "name": "1.10.16+kotlin.1.9.21",
+    "size": 6728096,
+    "fileName": "fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Ha28R6CL/versions/VJUqKopR/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar",
     "hashes": {
-      "sha1": "c708f3f4e94f0f66e72c6e96858368f0512c3b38",
-      "sha512": "27e3edb4a6c170827115018728e5d3a5b84d001f8f42138403d3d0127104ec334adfaea078d063b1c87cc55c979d9237bafb16fc98558a34e1d1befdda499bc5"
+      "sha1": "c411b587ba7b272b956605e5ee2ad10985e38ec9",
+      "sha512": "a8cd43f7b946c5c3229f179eee24d8ec8624b9646f27e1a4022e67281a2e142e35a13d537287718ea86b93d7a9b24169c464219806f36eefec53dfb70cc037c5"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "Ha28R6CL",
-    "versionId": "48ri5y9r",
+    "versionId": "VJUqKopR",
     "ignoreUpdates": false
   }
 }

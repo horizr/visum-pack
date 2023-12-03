@@ -3,19 +3,19 @@
   "displayName": "ChoiceTheorem's Overhauled Village",
   "enabled": true,
   "version": {
-    "name": "3.3.1",
-    "size": 3841033,
-    "fileName": "ctov-3.3.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/fgmhI8kH/versions/WCTtzdXO/ctov-3.3.1.jar",
+    "name": "3.3.6",
+    "size": 4643964,
+    "fileName": "ctov-3.3.6.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/fgmhI8kH/versions/nF92O1uF/ctov-3.3.6.jar",
     "hashes": {
-      "sha1": "5da989533b7cd4ce6612a117ee1dadee22087c8f",
-      "sha512": "006191e7dd5a74fd0e36a47da2ed33baedfdfd460cf754c164bbd66775541edd4761c32b42893d7a55ce216c8cbfd014898905782286fd493a858d1a5c2cc94d"
+      "sha1": "9fe2efeb1f2bff5309191c088437d0c6b4121e82",
+      "sha512": "bfe67af2d569d41ed96ee9165ba0c9c2c4452c69a2b6062183d2394cde075315e957df4688b401bd6753286ce14542daf0279868902fe8f9c2014d1043e77dec"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "fgmhI8kH",
-    "versionId": "WCTtzdXO",
+    "versionId": "nF92O1uF",
     "ignoreUpdates": false
   }
 }

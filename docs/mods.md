@@ -63,7 +63,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Extended Drawers` — storage drawers
 - `Fabric Waystones` — waystones
 - `Gravestones`
-- `Light Overlay`
+- `Lighty` — light-level overlay
 - `Mouse Tweaks`
 - `Replanting Crops` — automatically replants crops harvested with a hoe
 - `Stack Refill` — automatically refills the player’s hand
@@ -77,6 +77,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `OneTimeOverrides`
 
 ### Library
+- `Architectury` — required by `Animal Feeding Trough`
 - `Athena` — required by `Chipped`
 - `Balm` — required by `Cooking for Blockheads`
 - `BCLib` — by `BetterNether`, `BetterEnd`
@@ -100,19 +101,6 @@ These mods would be in the pack if they were stable/finished.
 - `Deeper and Darker` — enhance the Deep Dark
 - `Immersive Portals`
 - `Resounding` — realistic sound physics
-
-### Alternative used
-- `Better Recipe Book` → `EMI`
-- `Cinderscapes` → `Better Nether`
-- `EditSign` → `Charm`
-- `FPS - Display` → `Sodium`
-- `LambDynamicLights` → `Iris Shaders`
-- `No Telemetry` → `Debugify`
-- bug-fixing mods → `Debugify`
-
-### Too special
-- `Eureka` — custom ships, compatible with Create
-- `Origins` — character classes
 
 ### Incompatible loader/version
 - `Campanion` — various camping-themed items

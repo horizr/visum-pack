@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "0.87.0+1.20.1",
-    "size": 2041542,
-    "fileName": "fabric-api-0.87.0+1.20.1.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/lcnQpW9C/fabric-api-0.87.0%2B1.20.1.jar",
+    "name": "0.91.0+1.20.1",
+    "size": 2060204,
+    "fileName": "fabric-api-0.91.0+1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/YblXfKtI/fabric-api-0.91.0%2B1.20.1.jar",
     "hashes": {
-      "sha1": "95fec63d338a8fbe5133a9a5054eca364c9017ba",
-      "sha512": "72e4c2abee838139ae3ba87615273deb8386791c43cf1e423f2a44d2b36ef845f6f967fd370a39d17498adb2fb7a9661b9352fc9f1070571b93db8579f383a24"
+      "sha1": "7ffc72573fb45e172cbc28a71b05481ca7f049d1",
+      "sha512": "cc8d87b50e1db9df4715f4194e85f3f80f0c816d1636f19d9a31fd4608203c588720318d9659f066a5ebc1ae5f9a2dc7a5f37bb78fef28fc51b9765a42f91147"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "P7dR8mSH",
-    "versionId": "lcnQpW9C",
+    "versionId": "YblXfKtI",
     "ignoreUpdates": false
   }
 }

@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.0.1",
-    "size": 57958,
-    "fileName": "dynamic-fps-3.0.1+minecraft-1.20.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/sejsYSOg/dynamic-fps-3.0.1%2Bminecraft-1.20.jar",
+    "name": "3.2.1",
+    "size": 70316,
+    "fileName": "dynamic-fps-3.2.1+minecraft-1.20.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/MJxmQ042/dynamic-fps-3.2.1%2Bminecraft-1.20.0.jar",
     "hashes": {
-      "sha1": "fb0aa26ea4f50bd7a9e1fc48b077badba46057f6",
-      "sha512": "f47dec9e2936a36c5944bade1dbfb4cf5ad6c18c05475e929a90de39780b0e311ee70dc76d2f5dd0fc93d56f5f7f8bc5f54b62b3235920566a5c1daa63959752"
+      "sha1": "d4edd1828b1595eca7be0d36d1cc45b189a17a6e",
+      "sha512": "6ca9280ee22153552cdb4a75454850c2b75914d661afdea97c11a7c70370631f8f1574233c52ab46e36e97b9caed3f3574eee95169b2382d1b7a1e96973bdb77"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "LQ3K71Q1",
-    "versionId": "sejsYSOg",
+    "versionId": "MJxmQ042",
     "ignoreUpdates": false
   }
 }

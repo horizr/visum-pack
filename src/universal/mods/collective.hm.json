@@ -3,19 +3,19 @@
   "displayName": "Collective",
   "enabled": true,
   "version": {
-    "name": "1.20.1-6.65-forge+fabric",
-    "size": 618381,
-    "fileName": "collective-1.20.1-6.65.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/W1CQ9UCz/collective-1.20.1-6.65.jar",
+    "name": "1.20.1-7.6-forge+fabric",
+    "size": 530907,
+    "fileName": "collective-1.20.1-7.6.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/Vs95Wipv/collective-1.20.1-7.6.jar",
     "hashes": {
-      "sha1": "ed906fb381167f195ae28aabf3d94363f7f44697",
-      "sha512": "a0f163dfaade2e8be2b567950b1e0eea1a7431ff4edd935e1ca2fb992c9a395be00fe7ca6ccd4b0d54c3df2a51d951824501e778c5041bba1bfaa9e6cf318a8a"
+      "sha1": "b5ec6b59ebf018af4040b6ddaf31e6f8acf1f9b5",
+      "sha512": "05171d556025bab8c8c57c5f77cca267cb2006e11772721b72baa4b338e0a7c3ad2a0a2bf15754706d69ff5892754a7f69f470b9c386d074a3bda9bda1897187"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "e0M1UDsY",
-    "versionId": "W1CQ9UCz",
+    "versionId": "Vs95Wipv",
     "ignoreUpdates": false
   }
 }

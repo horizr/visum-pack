@@ -3,19 +3,19 @@
   "displayName": "Moonlight Lib",
   "enabled": true,
   "version": {
-    "name": "1.20-2.8.16",
-    "size": 910628,
-    "fileName": "moonlight-1.20-2.8.16-fabric.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/mHeZr8dp/moonlight-1.20-2.8.16-fabric.jar",
+    "name": "fabric_1.20-2.8.68",
+    "size": 1075843,
+    "fileName": "moonlight-1.20-2.8.68-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/WXnNfkOQ/moonlight-1.20-2.8.68-fabric.jar",
     "hashes": {
-      "sha1": "2df3f11801ce3b64a5a3da6d70f000f2855e71c1",
-      "sha512": "6bc0dfb19ac52f0c571b6134cba2963a8e25b66c11a2d5e82d0cf1db3c04f854e1986557a8fd97ace296dec301c8c4e0458287de01fdb30d1dd03244903d364b"
+      "sha1": "cd97e5eacf8251df41f3e217ad936806114d4c9f",
+      "sha512": "1006c1d758b0ac8e2880a6efce8b3a376ee16e8ab73a071e56617adf51aedae40670234509072d511d72c2802de229c565be58aec226d88b0338c3d985ac0dfe"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "twkfQtEc",
-    "versionId": "mHeZr8dp",
+    "versionId": "WXnNfkOQ",
     "ignoreUpdates": false
   }
 }

@@ -16,6 +16,6 @@
     "type": "modrinth",
     "modId": "QwxR6Gcd",
     "versionId": "6XDJoCks",
-    "ignoreUpdates": true
+    "ignoreUpdates": false
   }
 }

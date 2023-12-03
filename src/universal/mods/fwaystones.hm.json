@@ -2,19 +2,19 @@
   "formatVersion": 1,
   "enabled": true,
   "version": {
-    "name": "3.1.3+mc1.20",
-    "size": 436098,
-    "fileName": "wraith-waystones-3.1.3+mc1.20.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/sTZr7NVo/versions/CQteW8p2/wraith-waystones-3.1.3%2Bmc1.20.jar",
+    "name": "3.3.1+mc1.20.1",
+    "size": 424034,
+    "fileName": "wraith-waystones-3.3.1+mc1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/sTZr7NVo/versions/6qnJ50rN/wraith-waystones-3.3.1%2Bmc1.20.1.jar",
     "hashes": {
-      "sha1": "99a174aced90850443bab08626d2d425af362229",
-      "sha512": "f010b4086a79efc5cc3153fe962038ffe971d6a079947fdd9c1c3daffa59984cccb39cf7a7d914595f09c04579c8fc41944968f055b46e353eed29fe49f0ba41"
+      "sha1": "329e7ea1ce1e56759265ad8edb0067e95ea939d5",
+      "sha512": "35974f52d72cb19b200ad1cec2f4b41123056f8520a18a8caaa352a89959e177370d8f73164b3381ac47ab448bceba6e8c441f5c4fd8013c3f27920f1668b75e"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "sTZr7NVo",
-    "versionId": "CQteW8p2",
+    "versionId": "6qnJ50rN",
     "ignoreUpdates": false
   }
 }

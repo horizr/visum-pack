@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Architectury API",
+  "enabled": true,
+  "version": {
+    "name": "9.1.12+fabric",
+    "size": 576353,
+    "fileName": "architectury-9.1.12-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Sbew3kXe/architectury-9.1.12-fabric.jar",
+    "hashes": {
+      "sha1": "add0fffa445ee2959b0898484732704a15156553",
+      "sha512": "54bdfc469f897e70a10b31c49d908e09b9cdefdda87c662ad6695c713fbf901bc37256c157ca7d2b9c70a13b304ee74a88cbead98bb23f1ae10e2aef3482db17"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "lhGA9TYQ",
+    "versionId": "Sbew3kXe",
+    "ignoreUpdates": false
+  }
+}

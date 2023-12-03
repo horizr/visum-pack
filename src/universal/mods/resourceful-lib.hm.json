@@ -3,19 +3,19 @@
   "displayName": "Resourceful Lib",
   "enabled": true,
   "version": {
-    "name": "2.1.10",
-    "size": 364056,
-    "fileName": "resourcefullib-fabric-1.20.1-2.1.10.jar",
-    "downloadUrl": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Km7wGxHM/resourcefullib-fabric-1.20.1-2.1.10.jar",
+    "name": "2.1.18",
+    "size": 390060,
+    "fileName": "resourcefullib-fabric-1.20.1-2.1.18.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/G1hIVOrD/versions/5coQdKPg/resourcefullib-fabric-1.20.1-2.1.18.jar",
     "hashes": {
-      "sha1": "4685dfebcc58de46dfbc3abdcf97f47146cb1948",
-      "sha512": "a507c0a98c4eff40bd35ab6b20229ce9d4d3386526fed3f013ca1833b4068360b20623a64165189b2333eed7f6637e256a3c105c2742a338201ed725fdf33e8c"
+      "sha1": "3792e0fc8d93ae361fb8b6c65882bee686026af1",
+      "sha512": "4d201846ebf600d3ec8b3a147fc3ec81f7fb38808cca6b93e4f8952492764b02c90fba62a5f4e54c0a459e3dec22313159e8bd43a995c1213f9b488caabca8c5"
     }
   },
   "source": {
     "type": "modrinth",
     "modId": "G1hIVOrD",
-    "versionId": "Km7wGxHM",
+    "versionId": "5coQdKPg",
     "ignoreUpdates": false
   }
 }
