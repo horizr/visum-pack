@@ -11,8 +11,7 @@ guiScale:3
 particles:0
 maxFps:120
 graphicsMode:1
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Better-Leaves.zip"]
-incompatibleResourcePacks:["file/Better-Leaves.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix"]
 pauseOnLostFocus:false
 tutorialStep:none
 skipMultiplayerWarning:true

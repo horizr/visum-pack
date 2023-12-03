@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Nullscape",
+  "enabled": true,
+  "version": {
+    "name": "1.2.3",
+    "size": 318199,
+    "fileName": "Nullscape_1.20.2_v1.2.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/LPjGiSO4/versions/w4mEZnbU/Nullscape_1.20.2_v1.2.3.jar",
+    "hashes": {
+      "sha1": "6d0d32276415eb11b4c58f7ccd61145aa83095e4",
+      "sha512": "62359d5d286128509a652cb47f55ba4bbb68d0c3618d51077a928828811e74fafddf263fae18ae66e26f4c670fcfc97238a5077a34ae8b7e1a2f0b31db785639"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "LPjGiSO4",
+    "versionId": "w4mEZnbU",
+    "ignoreUpdates": false
+  }
+}

@@ -19,3 +19,4 @@ While creating a new instance, you can select the pack after searching for it in
 ### Manually updated
 These must be manually updated:
 - [`Better Leaves` (resource-pack)](https://modrinth.com/resourcepack/better-leaves) v7.2
+- [`Incendium Optional Resourcepack` (resource-pack)](https://modrinth.com/resourcepack/incendium-optional-resourcepack) v5.3.7

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Global Packs",
+  "enabled": true,
+  "version": {
+    "name": "1.16.1_fabric",
+    "size": 230089,
+    "fileName": "global_packs-fabric-1.19.4-1.16.1_fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/NRLPy2mk/versions/9so0FT8s/global_packs-fabric-1.19.4-1.16.1_fabric.jar",
+    "hashes": {
+      "sha1": "927c59d923a7a38837427046d6b3b2feedf26128",
+      "sha512": "1ef27024288435cfd3ffa68ff2383eed11bf2860583ad38b4a2c1f011b85624939db706898d3cb27cacb8e0c32ec8b72e30eba33da747ac2fb22ef5289bf4dd2"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "NRLPy2mk",
+    "versionId": "9so0FT8s",
+    "ignoreUpdates": false
+  }
+}

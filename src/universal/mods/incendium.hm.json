@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Incendium",
+  "enabled": true,
+  "version": {
+    "name": "5.3.3",
+    "size": 4341300,
+    "fileName": "Incendium_1.20.2_v5.3.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/QL8CxhjY/Incendium_1.20.2_v5.3.3.jar",
+    "hashes": {
+      "sha1": "8653e534ac7e430c60b0e128b4ebad35fa22b6dc",
+      "sha512": "a5a866b866b7bb12d2466dc575d68ec0840fd6bc5606647576249c23026e812d864fdfac38246e5394cfde024c8b34a96d496e7832f94143439ee3dc5aba24d0"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "ZVzW5oNS",
+    "versionId": "QL8CxhjY",
+    "ignoreUpdates": false
+  }
+}

@@ -1,6 +1,8 @@
 # Mods
 
-The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourcepack/better-leaves) is preinstalled.
+These two resource-packs are preinstalled:
+- [`Better Leaves` by MidnightDust](https://modrinth.com/resourcepack/better-leaves)
+- [`Incendium Optional Resourcepack` by Stardust](https://modrinth.com/resourcepack/incendium-optional-resourcepack)
 
 ## Included
 ### Performance
@@ -23,9 +25,10 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Sodium Extra` — more settings
 
 ### World-gen
-- `BetterEnd`
-- `BetterNether`
 - `ChoiceTheorem's Overhauled Village` — more village types
+- `Incendium` — more biomes and structures in the Nether
+- `Nullscape` — more biomes and structures in the End
+- `Terralith` — more biomes and structures in the Overworld
 - `Wilder Wild`
 
 ### Building blocks
@@ -84,14 +87,15 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Zoomify` — zoom
 
 ### Modpack utilities
+- `Global Packs`
 - `Main Menu Credits`
 - `OneTimeOverrides`
+- `Remove Terralith Intro Message`
 
 ### Library
 - `Architectury` — required by `Animal Feeding Trough`
 - `Athena` — required by `Chipped`
 - `Balm` — required by `Cooking for Blockheads`
-- `BCLib` — required by `BetterNether`, `BetterEnd`
 - `Bookshelf` — required by `Enchantment Description`
 - `Cardinal Components API` — required by `Traveler's Backpack`
 - `Collective` — required by `Stack Refill`, `Tree Harvester`, `Replanting Crops`
