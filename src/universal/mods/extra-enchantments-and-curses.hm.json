@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Extra Enchantments and Curses",
+  "enabled": true,
+  "version": {
+    "name": "1.8.1",
+    "size": 368456,
+    "fileName": "Extra-Enchantments-and-Curses-1.8.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/ybgcuKbF/versions/uP0d9ZK8/Extra-Enchantments-and-Curses-1.8.1.jar",
+    "hashes": {
+      "sha1": "ab05445f7579f98fde2b573346401c072131c7fe",
+      "sha512": "f7cccb3063d38b1c972bb2b54ef5d42efef4a1e9ee64c6876f124e355e235d7287b00a062bb3161aad16b964624afd8a3ede90a1dda8dd74d0e2b7f0acb73dfe"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "ybgcuKbF",
+    "versionId": "uP0d9ZK8",
+    "ignoreUpdates": false
+  }
+}

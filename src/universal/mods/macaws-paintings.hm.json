@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Macaw's Paintings",
+  "enabled": true,
+  "version": {
+    "name": "1.0.5",
+    "size": 58164,
+    "fileName": "mcw-paintings-1.0.5-1.20.1fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/okE6QVAY/versions/CwHvP3Pz/mcw-paintings-1.0.5-1.20.1fabric.jar",
+    "hashes": {
+      "sha1": "dde22454bdccd63aefbd26d96b7f644ce576cf9c",
+      "sha512": "17f928fb5365fd0315fe284b3b3213f5ec0ff14ea70a89c16be8376dd9a1f6ba7faed78a18a674436b78a63df1c8d6de7b04e3e99f8c84d95d4c8a66ae4f2bf8"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "okE6QVAY",
+    "versionId": "CwHvP3Pz",
+    "ignoreUpdates": false
+  }
+}

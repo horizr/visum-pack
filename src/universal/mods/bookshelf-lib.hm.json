@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Bookshelf",
+  "enabled": true,
+  "version": {
+    "name": "20.1.6",
+    "size": 317670,
+    "fileName": "Bookshelf-Fabric-1.20.1-20.1.6.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/do4zQJJA/Bookshelf-Fabric-1.20.1-20.1.6.jar",
+    "hashes": {
+      "sha1": "d517744dc3bd9677f505465595f0b48f20722afe",
+      "sha512": "72e8efdc0f4d1c0ac08502cb10706005f1053516934283871ebb81b47785634f304ce00cb8bb987adaf5ae325243c5649492a1443cdb4eb1ab04c7b4dd7f3d16"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "uy4Cnpcm",
+    "versionId": "do4zQJJA",
+    "ignoreUpdates": false
+  }
+}

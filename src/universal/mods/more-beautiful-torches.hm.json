@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "More Beautiful Torches",
+  "enabled": true,
+  "version": {
+    "name": "2.5.2-1.20.1_fabric",
+    "size": 4466062,
+    "fileName": "morebeautifultorches-2.5.2-1.20.1_fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/C341qvJ5/versions/fJMywAor/morebeautifultorches-2.5.2-1.20.1_fabric.jar",
+    "hashes": {
+      "sha1": "63012dd059d783a21342da7488bb3100e10fc344",
+      "sha512": "f8a8bb1527783d8721e4452a70eb5f7798c39651f73a9207cd365f0656d609568bb91a7bf15d8915af3cd132d9ec32c501c628037bc8e3f371a024409a1beba8"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "C341qvJ5",
+    "versionId": "fJMywAor",
+    "ignoreUpdates": false
+  }
+}

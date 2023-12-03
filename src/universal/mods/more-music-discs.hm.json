@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "More Music Discs",
+  "enabled": true,
+  "version": {
+    "name": "1.20.1-32-fabric",
+    "size": 137945129,
+    "fileName": "morediscs-1.20.1-32-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/pXYChc1a/versions/BBqauXf4/morediscs-1.20.1-32-fabric.jar",
+    "hashes": {
+      "sha1": "7695794a8f1e793d23abbae0a79948d87c4f3c16",
+      "sha512": "410b51b6dfe4782cb5f749727ee7c87eeb9a421b2a3de16b947f243a54725d0970938f1d54410628962f0ac50d6c5cc2fc08224c6c9bcdc63f00cb4d6985606f"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "pXYChc1a",
+    "versionId": "BBqauXf4",
+    "ignoreUpdates": false
+  }
+}

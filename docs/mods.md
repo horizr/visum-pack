@@ -13,6 +13,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 
 ### Graphics
 - `BedrockWaters` — biome-specific water properties
+- `cat_jam` — cats jam to the rhythm of music discs 
 - `Continuity` — connected textures
 - `Enhanced Block Entities` — smooth lighting on block entities (+ performance improvements)
 - `Falling Leaves` — falling leaves particles
@@ -31,9 +32,12 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Adorn` — furniture
 - `Chipped` — more block variants
 - `Cooking for Blockheads` — cooking and kitchen furniture
+- `Display Case` — block displaying a single item
 - `Handcrafted` — furniture
 - `Infinity Buttons` — more buttons
 - `Lanterns Belong on Walls` — allows placing lanterns on walls
+- `Macaw's Paintings` — more paintings
+- `More Beautiful Torches` — more torch variants
 
 ### GUI
 - `AppleSkin` — hunger/health-related HUD improvements
@@ -41,6 +45,7 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `EMI Loot` — EMI addon for loot drops
 - `EMI` — item and recipe viewer
 - `EMIffect` — EMI addon for status effects
+- `Enchantment Descriptions`
 - `Mod Menu` — adds a mod menu
 - `Paginated Advancements` — improved advancements screen
 - `Raised` — fixes the hotbar position
@@ -58,13 +63,19 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
 - `Crawl` — allows to crawl by pressing a key
-- `Culinaire` — more food items
 - `Debugify` — fixes various bugs
+- `Discs Where Discs Shouldn't Be` — more music discs
 - `Extended Drawers` — storage drawers
+- `Extra Enchantments and Curses` — more enchantments
 - `Fabric Waystones` — waystones
+- `Farmer's Delight` — expansion of farming and cooking
 - `Gravestones`
+- `Ice Boat nerf` — boats don’t go extra fast on ice
+- `Infusion Table` — enchanted item → enchanted book
 - `Lighty` — light-level overlay
+- `More Music Discs` — more music discs
 - `Mouse Tweaks`
+- `Nature's Compass` — biome compass
 - `Replanting Crops` — automatically replants crops harvested with a hoe
 - `Stack Refill` — automatically refills the player’s hand
 - `Supplementaries` — various items
@@ -80,7 +91,8 @@ The [`Better Leaves` resource-pack by MidnightDust](https://modrinth.com/resourc
 - `Architectury` — required by `Animal Feeding Trough`
 - `Athena` — required by `Chipped`
 - `Balm` — required by `Cooking for Blockheads`
-- `BCLib` — by `BetterNether`, `BetterEnd`
+- `BCLib` — required by `BetterNether`, `BetterEnd`
+- `Bookshelf` — required by `Enchantment Description`
 - `Cardinal Components API` — required by `Traveler's Backpack`
 - `Collective` — required by `Stack Refill`, `Tree Harvester`, `Replanting Crops`
 - `Dawn API` — required by `Culinaire`
@@ -104,3 +116,6 @@ These mods would be in the pack if they were stable/finished.
 
 ### Incompatible loader/version
 - `Campanion` — various camping-themed items
+
+## In consideration
+- `Culinaire` — more food items: no interoperability with `Farmer's Delight`, leading to duplication.

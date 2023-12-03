@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Infusion Table",
+  "enabled": true,
+  "version": {
+    "name": "1.2.0",
+    "size": 62709,
+    "fileName": "infusion_table-1.2.0-1.20-fabric.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/W9CiRGYK/versions/jsoERxuz/infusion_table-1.2.0-1.20-fabric.jar",
+    "hashes": {
+      "sha1": "1bdcb396e5c60d186a2a2db82bdeb60eb242c97a",
+      "sha512": "6ef71c9d991e78c5a6646dddb16b5cb2dbbf901841a4983e26e2593f52d7fe89fdc0fde6b985c3b51c3b546fcba21c4ad79117d0a166b36ecf31f93250d7cdd6"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "W9CiRGYK",
+    "versionId": "jsoERxuz",
+    "ignoreUpdates": false
+  }
+}

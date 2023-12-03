@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Display Case",
+  "enabled": true,
+  "version": {
+    "name": "1.0.8",
+    "size": 54742,
+    "fileName": "Display Case-fabric-1.20-1.0.8.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/cSIsh4gX/versions/MmINtjAu/Display%20Case-fabric-1.20-1.0.8.jar",
+    "hashes": {
+      "sha1": "04ddb021da1898033fa8220a4acc8263a925b7ff",
+      "sha512": "484d06bbb0d9638be4f1130abc66094f73ccfa7418119dd6fd51cfef671506428192f2277e135eacf77cd6424ad5d2adf035bdf46f01144036e060fec1f2be17"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "cSIsh4gX",
+    "versionId": "MmINtjAu",
+    "ignoreUpdates": false
+  }
+}

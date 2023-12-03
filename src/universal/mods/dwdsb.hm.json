@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Discs Where Discs Shouldn't Be",
+  "enabled": true,
+  "version": {
+    "name": "1.2.3",
+    "size": 61202678,
+    "fileName": "dwdsb-1.2.3.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/wA5VlakK/versions/yoNEDjmy/dwdsb-1.2.3.jar",
+    "hashes": {
+      "sha1": "150f8c31e34daba2c9bab1c4de53539e70dc7415",
+      "sha512": "4b9f840c7831bedd726d2ee80d5a8e6537a5eb8f7538d5b977659c75dd23e3b1d7afb2cab7f83ce47bcbaebf1d61d4d97f80958925a02e2a469652bac05534b2"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "wA5VlakK",
+    "versionId": "yoNEDjmy",
+    "ignoreUpdates": false
+  }
+}

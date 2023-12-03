@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Ice Boat nerf",
+  "enabled": true,
+  "version": {
+    "name": "1.0.16+MC1.18-1.20.2",
+    "size": 100524,
+    "fileName": "ice-boat-nerf-1.0.16+MC1.18-1.20.2.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/Udjno5eL/versions/4VgCKuIa/ice-boat-nerf-1.0.16%2BMC1.18-1.20.2.jar",
+    "hashes": {
+      "sha1": "de1cd694a1586a252ee643ad553f32a6542af730",
+      "sha512": "0a2ff4f6c64ef27db184efb9b541f5e6d8a227fc0d8f0ab342768344d1219f8a20020346dee0b4db3d4ed45ee2995ba0edfbe8bf06bad446becff044db0cd270"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "Udjno5eL",
+    "versionId": "4VgCKuIa",
+    "ignoreUpdates": false
+  }
+}

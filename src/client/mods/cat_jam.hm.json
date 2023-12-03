@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "cat_jam",
+  "enabled": true,
+  "version": {
+    "name": "1.2.1",
+    "size": 42945,
+    "fileName": "cat_jam-fabric-mc1.20-1.2.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/x3s69afN/versions/D5INFJwK/cat_jam-fabric-mc1.20-1.2.1.jar",
+    "hashes": {
+      "sha1": "a4e6e1cd2e2f427bfe69701578d2ee159f87a438",
+      "sha512": "5f2ccae8e1b9e9e8d4087ae419bca1d7893c3331881fb00931efe051f3d5c840165ddf4abba178d2bc0acaee42f31253c42efa63efd68b0342dd3c4178926338"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "x3s69afN",
+    "versionId": "D5INFJwK",
+    "ignoreUpdates": false
+  }
+}

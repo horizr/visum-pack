@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Enchantment Descriptions",
+  "enabled": true,
+  "version": {
+    "name": "17.0.9",
+    "size": 58541,
+    "fileName": "EnchantmentDescriptions-Fabric-1.20.1-17.0.9.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/QmgNEy2c/EnchantmentDescriptions-Fabric-1.20.1-17.0.9.jar",
+    "hashes": {
+      "sha1": "5eb4a25beec48a249a9c924b8c5bc1955c88ecab",
+      "sha512": "710270757f95b37618613f73de4617ee8bee45531225e86d0f94d1bc1b658fea9b87eef915dc854ee008caaf7086d2b7cccb900f4416454df4624f28827e83bc"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "UVtY3ZAC",
+    "versionId": "QmgNEy2c",
+    "ignoreUpdates": false
+  }
+}
