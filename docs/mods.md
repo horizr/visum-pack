@@ -57,6 +57,8 @@ These two resource-packs are preinstalled:
 ### Compatibility
 - `Animatica` — animated textures
 - `Entity Texture Features` — random+emissive textures
+- `Fabric Seasons: Terralith Compat` — `Fabric Seasons` + `Terralith` 
+- `Fabric Seasons: Delight Compat` — `Fabric Seasons` + `Farmer's Delight` 
 - `Indium` — `Lithium` + `Fabric Rendering API`
 
 ### Miscellaneous
@@ -70,6 +72,7 @@ These two resource-packs are preinstalled:
 - `Discs Where Discs Shouldn't Be` — more music discs
 - `Extended Drawers` — storage drawers
 - `Extra Enchantments and Curses` — more enchantments
+- `Fabric Seasons` — four seasons
 - `Fabric Waystones` — waystones
 - `Farmer's Delight` — expansion of farming and cooking
 - `Gravestones`
@@ -88,6 +91,7 @@ These two resource-packs are preinstalled:
 
 ### Modpack utilities
 - `Global Packs`
+- `Here be no Dragons!` — disable the "experimental world settings" warning screen
 - `Main Menu Credits`
 - `OneTimeOverrides`
 - `Remove Terralith Intro Message`
@@ -120,6 +124,7 @@ These mods would be in the pack if they were stable/finished.
 
 ### Incompatible loader/version
 - `Campanion` — various camping-themed items
+- `Fabric Seasons: Extras` — addon for `Fabric Seasons`
 
 ## In consideration
 - `Culinaire` — more food items: no interoperability with `Farmer's Delight`, leading to duplication.

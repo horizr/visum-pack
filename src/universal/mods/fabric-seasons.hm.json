@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Fabric Seasons",
+  "enabled": true,
+  "version": {
+    "name": "2.2.1+1.20",
+    "size": 426427,
+    "fileName": "fabric-seasons-2.2.1+1.20.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/dJtxMqxE/fabric-seasons-2.2.1%2B1.20.jar",
+    "hashes": {
+      "sha1": "7d74bc7963930006a38f4f61b6fd78130cfad5df",
+      "sha512": "685943f58dee9d80e10e6282c557240a788b7278652b46c60dfda7d0fac926abbc3bcb5568b9b314a1d39001373647c2534deb130ec9631842ffe5d40ffd21d3"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "KJe6y9Eu",
+    "versionId": "dJtxMqxE",
+    "ignoreUpdates": false
+  }
+}

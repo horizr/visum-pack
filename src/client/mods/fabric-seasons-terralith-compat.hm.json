@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Fabric Seasons: Terralith Compat",
+  "enabled": true,
+  "version": {
+    "name": "1.0",
+    "size": 49473,
+    "fileName": "fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/D53qveoj/versions/MJ2OF7eg/fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+    "hashes": {
+      "sha1": "c6ccb276f21a170a61e4176e7e1ee9c7af38efbf",
+      "sha512": "7ef06a1e2e9328a9882c44ba44c4d92124ad1fd5872cec85d54a7558f68902298a31eeee9e2bb49fa3c631898f48ab33cf77bb2a911450fd0ac61fa57571f8d7"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "D53qveoj",
+    "versionId": "MJ2OF7eg",
+    "ignoreUpdates": false
+  }
+}
