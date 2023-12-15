@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Scarecrows' Territory",
+  "enabled": true,
+  "version": {
+    "name": "1.1.11-fabric-mc1.20",
+    "size": 306971,
+    "fileName": "scarecrowsterritory-1.1.11-fabric-mc1.20.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/1RaTTUPz/versions/a5jw50Sq/scarecrowsterritory-1.1.11-fabric-mc1.20.jar",
+    "hashes": {
+      "sha1": "9cb94f6aeeafdbe298236a6576d90c3170db35e5",
+      "sha512": "1dc008e744a9f074c92c9ad2a81735d50a337603344a8fa33c4e28c6ad00e289c23e0cf4d7bd2efa723a20d2440dc5ef81abcf680bdc08e0ff00216da433d53a"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "1RaTTUPz",
+    "versionId": "a5jw50Sq",
+    "ignoreUpdates": false
+  }
+}

@@ -15,6 +15,7 @@ These two resource-packs are preinstalled:
 
 ### Graphics
 - `BedrockWaters` — biome-specific water properties
+- `Bobby` — allows for render distances greater than the server's view-distance
 - `cat_jam` — cats jam to the rhythm of music discs 
 - `Continuity` — connected textures
 - `Enhanced Block Entities` — smooth lighting on block entities (+ performance improvements)
@@ -67,6 +68,7 @@ These two resource-packs are preinstalled:
 - `Animal Feeding Trough` — block allowing animals to self-feed
 - `Auth Me` — in-game session re-validation
 - `Axes are Weapons` — allows sword enchantments for axes
+- `Chunk Loaders`
 - `Crawl` — allows to crawl by pressing a key
 - `Debugify` — fixes various bugs
 - `Discs Where Discs Shouldn't Be` — more music discs
@@ -83,6 +85,7 @@ These two resource-packs are preinstalled:
 - `Mouse Tweaks`
 - `Nature's Compass` — biome compass
 - `Replanting Crops` — automatically replants crops harvested with a hoe
+- `Scarecrows' Territory` — scarecrows keeping spawners activated
 - `Stack Refill` — automatically refills the player’s hand
 - `Supplementaries` — various items
 - `Traveler's Backpack` — backpacks
@@ -110,6 +113,8 @@ These two resource-packs are preinstalled:
 - `oωo` — required by `Fabric Waystones`, `Infinity Buttons`
 - `Resourceful Lib` — required by `Chipped`, `Handcrafted`
 - `Statement` — required by `Lanterns Belong on Walls`
+- `SuperMartijn642's Core Lib` — required by `Chunk Loaders`, `Scarecrows' Territory`
+- `SuperMartijn642's Config Lib` — required by `Chunk Loaders`, `Scarecrows' Territory`
 - `Trinkets` — required by `Traveler's Backpack`
 - `YetAnotherConfigLib` — required by `Zoomify`
 

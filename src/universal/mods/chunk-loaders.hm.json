@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "Chunk Loaders",
+  "enabled": true,
+  "version": {
+    "name": "1.2.8a-fabric-mc1.20.1",
+    "size": 156001,
+    "fileName": "chunkloaders-1.2.8a-fabric-mc1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/t1VgucWo/versions/rLIi25kQ/chunkloaders-1.2.8a-fabric-mc1.20.1.jar",
+    "hashes": {
+      "sha1": "74d9d1ff036ce70878beeb443427b34e3c4cf7cc",
+      "sha512": "b8479745bbc31ab883dc45609109d33e0d3fcfb5401460232fb69c36a1bd7a96dd1e2935e0d63dabeb85cd34a546fe6c90dbc8b3dc602e6c71a7bc0b6ef02f73"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "t1VgucWo",
+    "versionId": "rLIi25kQ",
+    "ignoreUpdates": false
+  }
+}

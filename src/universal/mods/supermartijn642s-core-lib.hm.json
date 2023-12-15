@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "displayName": "SuperMartijn642's Core Lib",
+  "enabled": true,
+  "version": {
+    "name": "1.1.16-fabric-mc1.20.1",
+    "size": 546710,
+    "fileName": "supermartijn642corelib-1.1.16-fabric-mc1.20.1.jar",
+    "downloadUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/ZZsfya5V/supermartijn642corelib-1.1.16-fabric-mc1.20.1.jar",
+    "hashes": {
+      "sha1": "fc0c2aa120947314ffb3745815dc46bf1ba2defb",
+      "sha512": "2e471889f341e5b18449c200018a534c2493ad0c97d6ab874634564976253251343e5b34fcd0908707119ee1008aa74dfff568416d385ab30d5b3e94a7cc8987"
+    }
+  },
+  "source": {
+    "type": "modrinth",
+    "modId": "rOUBggPv",
+    "versionId": "ZZsfya5V",
+    "ignoreUpdates": false
+  }
+}
